@@ -1,23 +1,25 @@
-# ESCOLA SEGURA
+# Escola Segura
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do projeto é desenvolver uma plataforma de fácil acesso para disponibilizar treinamentos e informações básicas de primeiros socorros para funcionários da área da educação. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Julia Guedes Pereira
+* Lucas Rangel Pereira de Sousa
+* Luiza Gabriela Machado Moreira
+* Nizia Oliveira Santos
+* Rafael Ribeiro Bastos
+* Vivian da Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne de Almeida Tôrres
 
 ## Instruções de utilização
 
