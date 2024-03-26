@@ -1,6 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os primeiros socorros desempenham um papel fundamental na preservação da vida e na minimização de danos em situações de emergência. No contexto brasileiro, a implementação e a conscientização sobre os primeiros socorros têm avançado significativamente ao longo dos anos, embora ainda haja desafios a serem superados. Antes de dar profundidade ao salvamento específico no ambiente escolar, é preciso entender melhor o que são e de onde vem essas técnicas. 
+
+Durante as Guerras Napoleônicas, no fim dos anos 1700, o general médico napoleônico Dominique Jean Larrey, considerado o “pai da medicina militar”, criou dois conceitos que viriam a mudar a história da medicina para sempre, sendo eles uma série de regras jamais usada antes para a triagem de soldados feridos e também os primeiros protótipos da ambulância. Consequentemente, iniciou a linha de pensamento médico que depois se tornaria o que hoje conhecemos com APH (Atendimento Pré-Hospitalar). 
+
+O fato de a dependência na medicina ser uma das experiências mais fundamentalmente humanas, somado ao desenvolvimento tecnológico e social, fez com que o APH se tornasse parte essencial da vida em sociedade. Atualmente, chegamos a ter políticas e leis que transformam o treinamento de primeiros socorros numa obrigação em ambientes de trabalho, tornando a promoção a saúde e a prevenção de acidentes um dever público. 
+
+Entretanto, observando empiricamente a área da educação especificamente, é inegável que mesmo com a introdução dessas recentes leis, uma parcela significativa dos profissionais da área não possui conhecimentos básicos sobre primeiros socorros ou se sente despreparada para lidar com emergências, mesmo atuando num ambiente extremamente propenso a acidentes envolvendo crianças, que são uma população vulnerável. 
+
+Diante de tal despreparo, torna-se imprescindível o conhecimento de APH entre todos os funcionários que atuam nas escolas, sejam elas públicas ou privadas. É necessária a divulgação das técnicas e conhecimentos básicos que capacitam as pessoas treinadas à identificação e tratamento, estabilizando a vítima e retirando o risco de uma lesão mais séria por falta de conhecimento. Como cada segundo é de extrema importância quando o assunto é primeiros socorros, um bom conhecimento na área trará grandes ganhos de tempo até a chegada do socorro especializado, aumentando as chances de salvamento. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -9,19 +17,17 @@ Descreva também o contexto em que essa aplicação será usada, se  houver: emp
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Temos como objetivo geral do projeto desenvolver uma plataforma de fácil acesso para disponibilizar treinamentos e informações básicas de primeiros socorros para funcionários da área da educação.  
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Quanto a objetivos específicos, destacamos: 
+
+Proporcionar cursos de APH para escolas; 
+
+Oferecer um ambiente virtual de acesso contínuo a cartilhas e apostilas instrutivas; 
+
+Fornecer informações atualizadas dos canais oficiais de assistência qualificada. 
 
 ## Justificativa
 
@@ -29,18 +35,18 @@ Descreva a importância ou a motivação para trabalhar com esta aplicação que
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Como já citado anteriormente, acidentes podem acontecer em qualquer lugar e a qualquer momento, mas de modo geral, existem formas de evitá-los e minimizar danos através de capacitação dos envolvidos. No ambiente escolar, devido a faixa etária com que se lida diariamente, condições dos espaços escolares e número de estudantes, são somados todos os riscos e a probabilidade de ocorrências cresce consideravelmente. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Levando as informações levantadas no problema em consideração, determinou-se como público-alvo desse projeto os profissionais e educadores que atuam em locais de ensino, onde enfrentam a necessidade de conhecimentos e técnicas básicas para lidar com situações de emergência. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+De acordo com a pesquisa feita por Conti e Zanatta (2014, p. 9), 63% dos agentes escolares entrevistados não se julgam capazes de agir em uma situação de emergência, sendo quedas e fraturas as ocorrências mais citadas, o que torna possível identificar as seguintes características do público-alvo: 
+
+Necessidade de preparo para agir em situações de risco; 
+
+- Dificuldade de identificar pontos potenciais de acidentes nas escolas; 
+
+- Necessidade de diferenciar e identificar equipamentos disponíveis no local para utilização em situações de emergência; 
+
+- Necessidade de abordar tema com alunos a fim de diminuir ocorrência dos acidentes. 
