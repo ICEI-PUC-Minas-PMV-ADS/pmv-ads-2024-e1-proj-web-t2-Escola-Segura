@@ -23,11 +23,11 @@ Temos como objetivo geral do projeto desenvolver uma plataforma de fácil acesso
 
 Quanto a objetivos específicos, destacamos: 
 
-Proporcionar cursos de APH para escolas; 
+- Proporcionar cursos de APH para escolas; 
 
-Oferecer um ambiente virtual de acesso contínuo a cartilhas e apostilas instrutivas; 
+- Oferecer um ambiente virtual de acesso contínuo a cartilhas e apostilas instrutivas; 
 
-Fornecer informações atualizadas dos canais oficiais de assistência qualificada. 
+- Fornecer informações atualizadas dos canais oficiais de assistência qualificada. 
 
 ## Justificativa
 
