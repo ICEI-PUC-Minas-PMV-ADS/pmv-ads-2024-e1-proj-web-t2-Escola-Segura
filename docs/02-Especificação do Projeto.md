@@ -34,12 +34,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Professor           | me inscrever para o curso de       |  proteger melhor meus alunos           |
-|                    | primeiros socorros mandatório pela |                                        |
-|                    | pela escola                        |                                        |
+|                    | primeiros socorros                 |                                        |
 |                    |                                    |                                        |
-|Diretor             | cadastrar a escola para oferecer   |  adequar a instituição a lei.          |
-|                    | treinamento obrigatório aos        |                                        |
-|                    | funcionarios                       |                                        |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
 |                    |                                    |                                        |
 |Professor           |ter acesso ao curso de primeiros    |manter meu emprego na instituição       |
 |                    |socorros basicos                    |                                        |
@@ -51,7 +49,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Professor           |conquistar o certificado de         |  adicionar ao meu curriculo            |
 |                    |conclusão de curso de primeiros     |                                        |
 |                    |socorros                            |                                        |
-|Coordenador         |                                    |                                        |
+|                    |                                    |                                        |
+|Coordenador         | encontrar                                    |                                        |
+|
+|
 |Coordenador         | Alterar permissões                 | Permitir que possam administrar contas |
 
 
