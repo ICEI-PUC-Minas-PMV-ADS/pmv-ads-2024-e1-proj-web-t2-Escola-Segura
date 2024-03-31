@@ -9,6 +9,29 @@ Perfis de Usuários
                3. Acessar materiais confiaveis e de credibilidade 
                4. Exercicios para fixação de conteúdo|
 
+<table>
+<tbody>
+<tr>
+<th colspan="2">Perfil 1: Aluno </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">
+Aluno do ensino superior, seja educação pública ou privada. 
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+1. Acesso fácil e rápido a conteúdos didáticos de qualidade, sem custo adicional à sua vida acadêmica; 
+2. Utilizar ambientes digitais em que esteja familiarizado; 
+3. Conteúdos apresentados em mídias diversificadas;
+4. Possibilidade de apoio de um monitor/tutor;
+5. Exercícios de fixação com resolução. 
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
