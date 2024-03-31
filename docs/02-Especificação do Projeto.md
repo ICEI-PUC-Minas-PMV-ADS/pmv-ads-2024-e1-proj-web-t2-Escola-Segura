@@ -1,7 +1,12 @@
 # Especificações do Projeto
 
 Perfis de Usuários
-
+|Perfil 01: Educador |
+|descrição :Funcionários da área de educação , seja de educação pública ou Privada|
+|Necessidades: 1. Acesso Rápido e fácil a tecnicas de primeiros socorros 
+               2. conteudo explicativo em midias diversas 
+               3. Acessar materiais confiaveis e de credibilidade 
+               4. Exercicios para fixação de conteúdo|
 
 
 
