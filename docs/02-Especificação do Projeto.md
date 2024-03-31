@@ -28,6 +28,33 @@ Funcionários da área de educação , seja de educação pública ou Privada
 </table>
 
 
+<table>
+<tbody>
+<tr>
+<th colspan="2">Perfil 02: Instituição Escolar </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">
+Instituição da area de educação , seja de educação pública ou Privada
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+1. Acesso para capacitação de seus funcionarios  
+2. Acompanhar no site o progresso dos funcionarios da instituição
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
