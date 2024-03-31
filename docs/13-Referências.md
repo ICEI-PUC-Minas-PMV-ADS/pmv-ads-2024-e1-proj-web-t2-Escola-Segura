@@ -12,8 +12,4 @@ LODER, R.T. The demographics of playground equipment injuries in children. Nursi
 SEIXO, L. (2004), Os acidentes em meio escolar: Que intervenção? Disponível em: <https://rpmgf.pt/ojs/index.php/rpmgf/article/view/10029/9767>. Acesso em: 16 mar. 2024.
 
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
