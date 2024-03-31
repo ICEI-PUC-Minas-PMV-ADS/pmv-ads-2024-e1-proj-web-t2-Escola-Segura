@@ -1,5 +1,10 @@
 # Especificações do Projeto
 
+Perfis de Usuários
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
@@ -28,8 +33,27 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Professor           | me inscrever para o curso de       |  proteger melhor meus alunos           |
+|                    | primeiros socorros mandatório pela |                                        |
+|                    | pela escola                        |                                        |
+|                    |                                    |                                        |
+|Diretor             | cadastrar a escola para oferecer   |  adequar a instituição a lei.          |
+|                    | treinamento obrigatório aos        |                                        |
+|                    | funcionarios                       |                                        |
+|                    |                                    |                                        |
+|Professor           |ter acesso ao curso de primeiros    |manter meu emprego na instituição       |
+|                    |socorros basicos                    |                                        |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|Monitor             |consultar um tutorial especifico    |realizar um salvamento até a ajuda      |
+|                    |de APH                              |profissional chegar                     |
+|                    |                                    |                                        |
+|Professor           |conquistar o certificado de         |  adicionar ao meu curriculo            |
+|                    |conclusão de curso de primeiros     |                                        |
+|                    |socorros                            |                                        |
+|Coordenador         |                                    |                                        |
+|Coordenador         | Alterar permissões                 | Permitir que possam administrar contas |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
