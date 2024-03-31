@@ -107,17 +107,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
+Requisitos Funcionais 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A aplicação deve permitir que o usuário cadastre uma conta de funcionário ou instituição. | ALTA | 
+|RF-002| A aplicação deve permitir que o usuário faça login da sua conta.  | ALTA |
+|RF-003| A aplicação deve oferecer com apenas um clique acesso a contatos de serviços emergenciais. | ALTA | 
+|RF-004| A aplicação deve oferecer um catálogo de cursos e apostilas.  | ALTA |
+|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar cartilhas e tutoriais específicos. | ALTA | 
+|RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA |
+|RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
+|RF-008| A aplicação deve oferecer imagens de capa para cada curso e apostila.   | BAIXA |
+|RF-009| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-010| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+
+
+
+
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox e Microsoft Edge. | ALTA | 
+|RNF-002| A aplicação deve ter visualização responsiva adequada em dispositivos diversos. |  ALTA | 
+|RNF-003| A aplicação deve oferecer acesso simplificado a contato de serviços emergenciais. |  MÉDIA | 
+|RNF-003| A aplicação deve oferecer acesso simplificado a contato de serviços emergenciais. |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
