@@ -38,6 +38,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Monitor             |consultar um tutorial especifico de APH           |realizar um salvamento até a ajuda profissional chegar    |
 |Professor           |conquistar o certificado de conclusão de curso de primeiros socorros |  adicionar ao meu curriculo            |
 |Coordenador         | encontrar o numeoro do atendimento emergencial da area |  solicitar uma ambulancia                              | |Professor           | Pesquisar um procedimento de primeiros socorros  |  Prestar um socorro adequado ao aluno  |
+|                    |                                                  |                                        |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
