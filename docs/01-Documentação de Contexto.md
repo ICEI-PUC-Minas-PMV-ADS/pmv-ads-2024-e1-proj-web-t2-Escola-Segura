@@ -11,11 +11,9 @@ Entretanto, observando empiricamente a área da educação especificamente, é i
 Diante de tal despreparo, torna-se imprescindível o conhecimento de APH entre todos os funcionários que atuam nas escolas, sejam elas públicas ou privadas. É necessária a divulgação das técnicas e conhecimentos básicos que capacitam as pessoas treinadas à identificação e tratamento, estabilizando a vítima e retirando o risco de uma lesão mais séria por falta de conhecimento. Como cada segundo é de extrema importância quando o assunto é primeiros socorros, um bom conhecimento na área trará grandes ganhos de tempo até a chegada do socorro especializado, aumentando as chances de salvamento. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O problema que o projeto apresenta  é a escassez de informação e treinamentos apropriados de primeiros socorros no ambiente escolar e nosso foco de atuação consiste na disseminação de connhecimentos e tecnicas cruciais a fim de salvar vidas. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 ## Objetivos
 
