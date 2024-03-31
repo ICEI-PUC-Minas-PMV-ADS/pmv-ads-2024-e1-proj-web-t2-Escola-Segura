@@ -1,5 +1,33 @@
 # Especificações do Projeto
 
+Perfis de Usuários
+
+
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">Perfil 01: Educador </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">
+Funcionários da área de educação , seja de educação pública ou Privada
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+1. Acesso Rápido e fácil a tecnicas de primeiros socorros 
+2. conteudo explicativo em midias diversas 
+3. Acessar materiais confiaveis e de credibilidade 
+4. Exercicios para fixação de conteúdo|
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
@@ -28,8 +56,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Professor           | me inscrever para o curso de primeiros socorros  |  proteger melhor meus alunos           |
+|Professor           |ter acesso ao curso de primeiros socorros basicos |manter meu emprego na instituição       |
+|Monitor             |consultar um tutorial especifico de APH           |realizar um salvamento até a ajuda profissional chegar    |
+|Professor           |conquistar o certificado de conclusão de curso de primeiros socorros |  adicionar ao meu curriculo            |
+|Coordenador         | encontrar o numeoro do atendimento emergencial da area |  solicitar uma ambulancia                              | |Professor           | Pesquisar um procedimento de primeiros socorros  |  Prestar um socorro adequado ao aluno  |
+|                    |                                                  |                                        |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
