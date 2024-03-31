@@ -2,32 +2,26 @@
 
 Perfis de Usuários
 
-|Perfil 01: Educador |||
-|descrição :Funcionários da área de educação , seja de educação pública ou Privada||
-|Necessidades: 1. Acesso Rápido e fácil a tecnicas de primeiros socorros 
-               2. conteudo explicativo em midias diversas 
-               3. Acessar materiais confiaveis e de credibilidade 
-               4. Exercicios para fixação de conteúdo|
+
 
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 1: Aluno </th>
+<th colspan="2">Perfil 01: Educador </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Aluno do ensino superior, seja educação pública ou privada. 
+Funcionários da área de educação , seja de educação pública ou Privada
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Acesso fácil e rápido a conteúdos didáticos de qualidade, sem custo adicional à sua vida acadêmica; 
-2. Utilizar ambientes digitais em que esteja familiarizado; 
-3. Conteúdos apresentados em mídias diversificadas;
-4. Possibilidade de apoio de um monitor/tutor;
-5. Exercícios de fixação com resolução. 
+1. Acesso Rápido e fácil a tecnicas de primeiros socorros 
+2. conteudo explicativo em midias diversas 
+3. Acessar materiais confiaveis e de credibilidade 
+4. Exercicios para fixação de conteúdo|
 </td>
 </tr>
 </tbody>
