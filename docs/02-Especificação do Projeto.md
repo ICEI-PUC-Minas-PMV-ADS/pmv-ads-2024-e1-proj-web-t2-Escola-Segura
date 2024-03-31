@@ -36,12 +36,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Professor           | me inscrever para o curso de       |  proteger melhor meus alunos           |
 |                    | primeiros socorros                 |                                        |
 |                    |                                    |                                        |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
 |Professor           |ter acesso ao curso de primeiros    |manter meu emprego na instituição       |
 |                    |socorros basicos                    |                                        |
-|                    |                                    |                                        |
 |                    |                                    |                                        |
 |Monitor             |consultar um tutorial especifico    |realizar um salvamento até a ajuda      |
 |                    |de APH                              |profissional chegar                     |
@@ -50,11 +46,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |                    |conclusão de curso de primeiros     |                                        |
 |                    |socorros                            |                                        |
 |                    |                                    |                                        |
-|Coordenador         | encontrar                                    |                                        |
-|
-|
-|Coordenador         | Alterar permissões                 | Permitir que possam administrar contas |
-
+|Coordenador         | encontrar o numeoro do atendimento |  solicitar uma ambulancia              |                                     |                    | emergencial da area                |                                        |
+|                    |                                    |                                        |
+|Professor           | Pesquisar um procedimento de pri-  |  Prestar um socorro adequado ao aluno  |
+|                    | meiros socorros                    |                                        |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
