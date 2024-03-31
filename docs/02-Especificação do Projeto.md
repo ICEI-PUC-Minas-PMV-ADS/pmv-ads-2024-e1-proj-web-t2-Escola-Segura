@@ -37,16 +37,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |                    | primeiros socorros                 |                                        |
 |Professor           |ter acesso ao curso de primeiros    |manter meu emprego na instituição       |
 |                    |socorros basicos                    |                                        |
-|                    |                                    |                                        |
 |Monitor             |consultar um tutorial especifico    |realizar um salvamento até a ajuda      |
 |                    |de APH                              |profissional chegar                     |
-|                    |                                    |                                        |
 |Professor           |conquistar o certificado de         |  adicionar ao meu curriculo            |
 |                    |conclusão de curso de primeiros     |                                        |
 |                    |socorros                            |                                        |
-|                    |                                    |                                        |
 |Coordenador         | encontrar o numeoro do atendimento |  solicitar uma ambulancia              |                                     |                    | emergencial da area                |                                        |
-|                    |                                    |                                        |
 |Professor           | Pesquisar um procedimento de pri-  |  Prestar um socorro adequado ao aluno  |
 |                    | meiros socorros                    |                                        |
 
