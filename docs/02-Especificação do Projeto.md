@@ -35,7 +35,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Professor           | me inscrever para o curso de       |  proteger melhor meus alunos           |
 |                    | primeiros socorros                 |                                        |
-|                    |                                    |                                        |
 |Professor           |ter acesso ao curso de primeiros    |manter meu emprego na instituição       |
 |                    |socorros basicos                    |                                        |
 |                    |                                    |                                        |
