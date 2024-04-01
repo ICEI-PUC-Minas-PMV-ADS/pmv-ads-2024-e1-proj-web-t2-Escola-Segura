@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-Perfis de Usuários
+##Perfis de Usuários
 
 <table>
 <tbody>
@@ -26,27 +26,6 @@ Funcionários da área de educação , seja de educação pública ou Privada
 </table>
 
 
-<table>
-<tbody>
-<tr>
-<th colspan="2">Perfil 02: Instituição Escolar </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">
-Instituição da area de educação , seja de educação pública ou Privada
-</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>
-1. Acesso para capacitação de seus funcionarios  
-2. Acompanhar no site o progresso dos funcionarios da instituição
-
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ## Histórias de Usuários
@@ -54,21 +33,48 @@ Instituição da area de educação , seja de educação pública ou Privada
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Professor           | me inscrever para o curso de primeiros socorros  |  proteger melhor meus alunos           |
-|Professor           |ter acesso ao curso de primeiros socorros basicos |manter meu emprego na instituição       |
-|Monitor             |consultar um tutorial especifico de APH           |realizar um salvamento até a ajuda profissional chegar    |
-|Professor           |conquistar o certificado de conclusão de curso de primeiros socorros |  adicionar ao meu curriculo            |
-|Coordenador         | encontrar o numeoro do atendimento emergencial da area |  solicitar uma ambulancia                              | |Professor           | Pesquisar um procedimento de primeiros socorros  |  Prestar um socorro adequado ao aluno  |
-|                    |                                                  |                                        |
+|Professor           |me inscrever para o curso de primeiros socorros  | proteger melhor meus alunos |
+|Professor           |ter acesso ao curso de primeiros socorros basicos | manter meu emprego na instituição |
+|Monitor             |consultar um tutorial especifico de APH | realizar um salvamento até a ajuda profissional chegar |
+|Professor           |conquistar o certificado de conclusão de curso de primeiros socorros | adicionar ao meu curriculo |
+|Coordenador         |encontrar o número do atendimento emergencial da area | solicitar uma ambulância |
+|Professor           |Pesquisar um procedimento de primeiros socorros  | Prestar um socorro adequado ao aluno |
+|Professor           |Saber diferenciar qual serviço emergencial chamar em uma emergência| ligar para ajuda profissional correta quando necessario |
+|Professor| Filtrar/Pesquisar um contato de emergência de maneira mais fácil | Encontrar rapidamente o contato da emergência |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+## Requisitos
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+### Requisitos Funcionais
+
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| A aplicação deve permitir que o usuário cadastrar uma conta | ALTA | 
+|RF-002| A aplicação deve permitir que o usuário fazer login da sua conta.  | ALTA |
+|RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | 
+|RF-004| A aplicação deve oferecer um catálogo de cursos e apostilas.  | ALTA |
+|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar cartilhas e tutoriais específicos. | ALTA | 
+|RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA |
+|RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
+|RF-008| A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.   | BAIXA |
+|RF-009| A aplicação de permitir que o usuário visualize os cursos ja realizados na página perfil. | MÉDIA | 
+|RF-010| A aplicação deve permitir ao usuário visualizar as informações sobre o curso | MÉDIA |
+
+**Prioridade: Alta / Média / Baixa.
+
+
+
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox e Microsoft Edge. | ALTA | 
+|RNF-002| A aplicação deve ter visualização responsiva adequada em dispositivos diversos. |  ALTA | 
+|RNF-003| A aplicação deve oferecer acesso contatos de serviços emergenciais em no máximo 2 segundos |  MÉDIA |
+
+**Prioridade: Alta / Média / Baixa.
 
 ## Modelagem do Processo de Negócio 
 
@@ -105,36 +111,8 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
-### Requisitos Funcionais
+ 
 
-Requisitos Funcionais 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário cadastre uma conta de funcionário ou instituição. | ALTA | 
-|RF-002| A aplicação deve permitir que o usuário faça login da sua conta.  | ALTA |
-|RF-003| A aplicação deve oferecer com apenas um clique acesso a contatos de serviços emergenciais. | ALTA | 
-|RF-004| A aplicação deve oferecer um catálogo de cursos e apostilas.  | ALTA |
-|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar cartilhas e tutoriais específicos. | ALTA | 
-|RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA |
-|RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
-|RF-008| A aplicação deve oferecer imagens de capa para cada curso e apostila.   | BAIXA |
-|RF-009| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-010| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-
-
-
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox e Microsoft Edge. | ALTA | 
-|RNF-002| A aplicação deve ter visualização responsiva adequada em dispositivos diversos. |  ALTA | 
-|RNF-003| A aplicação deve oferecer acesso simplificado a contato de serviços emergenciais. |  MÉDIA | 
-|RNF-003| A aplicação deve oferecer acesso simplificado a contato de serviços emergenciais. |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -160,11 +138,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
