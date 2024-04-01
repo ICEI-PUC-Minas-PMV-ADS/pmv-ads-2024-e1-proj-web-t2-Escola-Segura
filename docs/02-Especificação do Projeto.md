@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-##Perfis de Usuários
+## Perfis de Usuários
 
 <table>
 <tbody>
@@ -10,15 +10,15 @@
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Funcionários da área de educação , seja de educação pública ou Privada
+Funcionários da área de educação, seja de educação pública ou privada.
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Acesso Rápido e fácil a tecnicas de primeiros socorros 
-2. conteudo explicativo em midias diversas 
-3. Acessar materiais confiaveis e de credibilidade 
+1. Acesso Rápido e fácil a tecnicas de primeiros socorros <br>
+2. conteudo explicativo em midias diversas <br>
+3. Acessar materiais confiaveis e de credibilidade <br>
 4. Exercicios para fixação de conteúdo|
 </td>
 </tr>
@@ -58,7 +58,7 @@ Funcionários da área de educação , seja de educação pública ou Privada
 |RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
 |RF-008| A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.   | BAIXA |
 |RF-009| A aplicação de permitir que o usuário visualize os cursos ja realizados na página perfil. | MÉDIA | 
-|RF-010| A aplicação deve permitir ao usuário visualizar as informações sobre o curso | MÉDIA |
+|RF-010| A aplicação deve permitir ao usuário visualizar as informações sobre o curso. | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa.
 
