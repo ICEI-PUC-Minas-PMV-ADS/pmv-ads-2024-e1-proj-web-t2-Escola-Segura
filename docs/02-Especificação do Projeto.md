@@ -16,10 +16,10 @@ Funcionários da área de educação, seja de educação pública ou privada.
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Acesso Rápido e fácil a tecnicas de primeiros socorros <br>
-2. conteudo explicativo em midias diversas <br>
-3. Acessar materiais confiaveis e de credibilidade <br>
-4. Exercicios para fixação de conteúdo|
+1. Acesso Rápido e fácil a tecnicas de primeiros socorros.<br>
+2. conteudo explicativo em midias diversas.<br>
+3. Acessar materiais confiaveis e de credibilidade.<br>
+4. Exercicios para fixação de conteúdo. 
 </td>
 </tr>
 </tbody>
@@ -33,14 +33,14 @@ Funcionários da área de educação, seja de educação pública ou privada.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Professor           |me inscrever para o curso de primeiros socorros  | proteger melhor meus alunos |
-|Professor           |ter acesso ao curso de primeiros socorros basicos | manter meu emprego na instituição |
-|Monitor             |consultar um tutorial especifico de APH | realizar um salvamento até a ajuda profissional chegar |
-|Professor           |conquistar o certificado de conclusão de curso de primeiros socorros | adicionar ao meu curriculo |
-|Coordenador         |encontrar o número do atendimento emergencial da area | solicitar uma ambulância |
-|Professor           |Pesquisar um procedimento de primeiros socorros  | Prestar um socorro adequado ao aluno |
-|Professor           |Saber diferenciar qual serviço emergencial chamar em uma emergência| ligar para ajuda profissional correta quando necessario |
-|Professor| Filtrar/Pesquisar um contato de emergência de maneira mais fácil | Encontrar rapidamente o contato da emergência |
+|Professor           |me inscrever para o curso de primeiros socorros  | proteger melhor meus alunos. |
+|Professor           |ter acesso ao curso de primeiros socorros basicos | manter meu emprego na instituição. |
+|Monitor             |consultar um tutorial especifico de APH | realizar um salvamento até a ajuda profissional chegar. |
+|Professor           |conquistar o certificado de conclusão de curso de primeiros socorros | adicionar ao meu curriculo. |
+|Coordenador         |encontrar o número do atendimento emergencial da area | solicitar uma ambulância. |
+|Professor           |pesquisar um procedimento de primeiros socorros  | prestar um socorro adequado ao aluno. |
+|Professor           |saber diferenciar qual serviço emergencial chamar em uma emergência| ligar para ajuda profissional correta quando necessario. |
+|Professor| filtrar/pesquisar um contato de emergência de maneira mais fácil | encontrar rapidamente o contato da emergência. |
 
 ## Requisitos
 
@@ -49,7 +49,7 @@ Funcionários da área de educação, seja de educação pública ou privada.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário cadastrar uma conta | ALTA | 
+|RF-001| A aplicação deve permitir que o usuário cadastrar uma conta. | ALTA | 
 |RF-002| A aplicação deve permitir que o usuário fazer login da sua conta.  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | 
 |RF-004| A aplicação deve oferecer um catálogo de cursos e apostilas.  | ALTA |
@@ -72,7 +72,7 @@ Funcionários da área de educação, seja de educação pública ou privada.
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox e Microsoft Edge. | ALTA | 
 |RNF-002| A aplicação deve ter visualização responsiva adequada em dispositivos diversos. |  ALTA | 
-|RNF-003| A aplicação deve oferecer acesso contatos de serviços emergenciais em no máximo 2 segundos |  MÉDIA |
+|RNF-003| A aplicação deve oferecer acesso contatos de serviços emergenciais em no máximo 2 segundos. |  MÉDIA |
 
 **Prioridade: Alta / Média / Baixa.
 
