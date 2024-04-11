@@ -3,7 +3,45 @@
 
 ## Gerenciamento de Projeto
 
-A metodologia de trabalho escolhida para desenvolvimento deste projeto foi o SCRUM, a escolha traz uma série de benefícios significativos como, as equipes poderem desfrutar de maior flexibilidade para se adaptar às mudanças nos requisitos do projeto, entregas incrementais que permitem feedback contínuo dos stakeholders, transparência no progresso do trabalho, colaboração eficaz entre os membros da equipe, foco na qualidade do produto, visibilidade clara do progresso por meio de artefatos, maior satisfação do cliente devido à entrega contínua de valor e redução de riscos através da identificação precoce e resolução de problemas.
+A metodologia de trabalho escolhida para desenvolvimento deste projeto foi o SCRUM. Tal escolha traz uma série de benefícios significativos pois, como citado por Jeff Sutherland e J.J. Sutherland (2019, p. 237), o SCRUM "define objetivos e, de forma sistemática, passo a passo, descobre como chegar lá. E, ainda o mais importante, identifica o que está nos impedindo de chegar lá." 
+
+Desta forma, a equipe pode desfrutar de maior flexibilidade para se adaptar às mudanças nos requisitos do projeto, há entregas incrementais que permitem feedback contínuo dos stakeholders, mantêm-se transparência no progresso do trabalho, há colaboração eficaz entre os membros do time, entre outras qualidades.
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e MarvelApp, apresentadas com seu propósito na tabela a seguir:
+
+| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main |
+|Repositório de código fonte  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/blob/main/src/README.md  |
+|Projeto de interface e wireframes | MarvelApp | https://marvelapp.com/prototype/c6c1i2f |
+|Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/956 |
+
+
+## Controle de Versão
+
+A ferramenta de controle de versão adotada no projeto foi o
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório.
+
+O projeto segue a seguinte convenção para o nome de branches:
+
+- `main`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `documentation`: melhorias ou acréscimos à documentação
+- `bug`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
+
+
+## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
@@ -11,7 +49,8 @@ Tendo escolhido o Scrum como base para definição do processo de desenvolviment
 
 - Scrum Master: Luiza Gabriela Machado Moreira;
 - Product Owner: Julia Guedes Pereira;
-- Equipe de Desenvolvimento: Julia Guedes Pereira, Lucas Rangel Pereira de Sousa, Luiza Gabriela Machado Moreira, Nizia Oliveira Santos, Rafael Ribeiro Bastos, Vivian da Silva;
+- Equipe de Desenvolvimento: Julia Guedes Pereira, Lucas Rangel Pereira de Sousa, Luiza Gabriela Machado Moreira, Nizia Oliveira Santos, Rafael Ribeiro Bastos.
+
 
 ### Processo
 

@@ -1,6 +1,6 @@
 # Introdução
 
-Os primeiros socorros desempenham um papel fundamental na preservação da vida e na minimização de danos em situações de emergência, ainda mais quando falamos em escolas. No contexto brasileiro, a implementação e a conscientização sobre os primeiros socorros têm avançado significativamente ao longo dos anos, embora ainda haja desafios a serem superados. Antes de dar profundidade ao salvamento específico no ambiente escolar, foco de atução deste grupo, é preciso entender melhor o que são e de onde vem essas técnicas. 
+Os primeiros socorros desempenham um papel fundamental na preservação da vida e na minimização de danos em situações de emergência, ainda mais quando falamos em escolas. No contexto brasileiro, a implementação e a conscientização sobre os primeiros socorros têm avançado significativamente ao longo dos anos, embora ainda haja desafios a serem superados. Antes de dar profundidade ao salvamento específico no ambiente escolar, foco de atuação deste grupo, é preciso entender melhor o que são e de onde vem essas técnicas. 
 
 Durante as Guerras Napoleônicas, no fim dos anos 1700, o general médico napoleônico Dominique Jean Larrey, considerado o “pai da medicina militar”, criou dois conceitos que viriam a mudar a história da medicina para sempre, sendo eles uma série de regras jamais usada antes para a triagem de soldados feridos e também os primeiros protótipos da ambulância. Consequentemente, iniciou a linha de pensamento médico que depois se tornaria o que hoje conhecemos com APH (Atendimento Pré-Hospitalar). 
 
@@ -29,9 +29,14 @@ Quanto a objetivos específicos, destacamos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com Gurski e David (2014, p. 1):
+"A escola é um dos primeiros locais em nossa vida em que começamos a moldar nossos pensamentos, atitudes e nosso comportamento, em outras palavras, é onde se constrói o cidadão. Entretanto, no espaço escolar é comum a ocorrência de acidentes, sendo necessário que as instituições de ensino estejam preparadas para providências emergenciais, bem como para a prevenção."
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+No ambiente escolar é comum a ocorrência de acidentes, e por mais que a prevenção seja a melhor forma de cuidar da segurança das crianças e adolescentes, sempre há a possibilidade de acontecer algum imprevisto, portanto as escolas precisam estar preparadas para lidar com essas situações garantindo a segurança e bem-estar de todos nesse ambiente, o que infelizmente não é a realidade no país hoje. 
+
+Um grande exemplo que temos é o caso de Lucas Begalli. Lucas perdeu a vida em 2018 em uma excursão da escola após sofrer uma asfixia mecânica causada por um engasgo com uma salsicha no cachorro quente do lanche, e pelo fato de não ter recebido de forma correta e ágil os primeiros socorros, Lucas veio a óbito. Situação essa que podia ter sido evitada se os funcionários e professores da escola presentes com ele no momento tivessem treinamento básico para primeiros socorros.
+
+Tal fato originou à Lei Lucas (Lei nº 13.722), na qual em seus artigos, prevê a obrigatoriedade de capacitação de professores e funcionários em noções de primeiros socorros, sendo promovida por meio de cursos de capacitação condizentes com a natureza e a faixa etária do público atendido nos estabelecimentos de ensino ou de recreação, devendo ainda dispor de kits de primeiros socorros os estabelecimentos de ensino ou de recreação das redes pública e particular.
 
 ## Público-Alvo
 

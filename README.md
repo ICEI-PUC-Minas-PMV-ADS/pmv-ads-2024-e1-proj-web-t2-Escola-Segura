@@ -15,7 +15,6 @@ O objetivo geral do projeto é desenvolver uma plataforma de fácil acesso para 
 * Luiza Gabriela Machado Moreira
 * Nizia Oliveira Santos
 * Rafael Ribeiro Bastos
-* Vivian da Silva
 
 ## Orientador
 
