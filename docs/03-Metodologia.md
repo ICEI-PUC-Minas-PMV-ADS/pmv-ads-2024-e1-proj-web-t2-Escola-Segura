@@ -3,54 +3,17 @@
 
 ## Gerenciamento de Projeto
 
-A metodologia de trabalho escolhida para desenvolvimento deste projeto foi o SCRUM. Tal escolha traz uma série de benefícios significativos pois, como citado por Jeff Sutherland e J.J. Sutherland (2019, p. 237), o SCRUM "define objetivos e, de forma sistemática, passo a passo, descobre como chegar lá. E, ainda o mais importante, identifica o que está nos impedindo de chegar lá." 
+A metodologia de trabalho escolhida para desenvolvimento deste projeto foi o SCRUM. Tal escolha traz uma série de benefícios significativos pois, como citado por Jeff Sutherland e J.J. Sutherland (2019, p. 237), o SCRUM "define objetivos e, de forma sistemática, passo a passo, descobre como chegar lá. E, ainda o mais importante, identifica o que está nos impedindo de chegar lá."
 
 Desta forma, a equipe pode desfrutar de maior flexibilidade para se adaptar às mudanças nos requisitos do projeto, há entregas incrementais que permitem feedback contínuo dos stakeholders, mantêm-se transparência no progresso do trabalho, há colaboração eficaz entre os membros do time, entre outras qualidades.
 
-## Relação de Ambientes de Trabalho
-
-Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e MarvelApp, apresentadas com seu propósito na tabela a seguir:
-
-| AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
-|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main |
-|Repositório de código fonte  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/blob/main/src/README.md  |
-|Projeto de interface e wireframes | MarvelApp | https://marvelapp.com/prototype/c6c1i2f |
-|Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/956 |
-
-
-## Controle de Versão
-
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
-
-O projeto segue a seguinte convenção para o nome de branches:
-
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-
-## Gerenciamento de Projeto
-
 ### Divisão de Papéis
 
-Tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+Tendo escolhido o Scrum como base para definição do processo de desenvolvimento, a equipe está organizada da seguinte maneira:
 
 - Scrum Master: Luiza Gabriela Machado Moreira;
 - Product Owner: Julia Guedes Pereira;
 - Equipe de Desenvolvimento: Julia Guedes Pereira, Lucas Rangel Pereira de Sousa, Luiza Gabriela Machado Moreira, Nizia Oliveira Santos, Rafael Ribeiro Bastos.
-
 
 ### Processo
 
@@ -73,11 +36,6 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 <h3>Etiquetas</h3>
 <p>As tarefas são etiquetadas em função da propriedade da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png">
-    <figcaption>Figura 2 - esquema de cores e categorias utilizados</figcaption>
-</figure>
-
 <ul>
   <li>Bug (Erro no código)</li>
   <li>Desenvolvimento (Development)</li>
@@ -86,6 +44,11 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
   <li>Infraestrutura (Infrastructure)</li>
   <li>Testes (Tests)</li>
 </ul>
+
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png">
+    <figcaption>Figura 2 - esquema de cores e categorias utilizados</figcaption>
+</figure>
 
 ### Ferramentas
 
@@ -105,12 +68,10 @@ Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Mar
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main |
 |Repositório de código fonte  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/blob/main/src/README.md  |
-|Projeto de interface e wireframes | MarvelApp | em desenvolvimento.. |
+|Projeto de interface e wireframes | MarvelApp | https://marvelapp.com/prototype/c6c1i2f/screen/94264178 |
 |Gerenciamento do projeto  | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/956 |
 
 
 ### Estratégia de Organização de Codificação 
 
 Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [SRC](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main/src). 
-
-
