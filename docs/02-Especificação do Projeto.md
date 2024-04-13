@@ -52,8 +52,8 @@ Funcionários da área de educação, seja de educação pública ou privada.
 |RF-001| A aplicação deve permitir que o usuário cadastrar uma conta. | ALTA | 
 |RF-002| A aplicação deve permitir que o usuário fazer login da sua conta.  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | 
-|RF-004| A aplicação deve oferecer um catálogo de cursos e apostilas.  | ALTA |
-|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar cartilhas e tutoriais específicos. | ALTA | 
+|RF-004| A aplicação deve oferecer um catálogo de cursos.  | ALTA |
+|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar tutoriais específicos. | ALTA | 
 |RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA |
 |RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
 |RF-008| A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.   | BAIXA |
