@@ -29,7 +29,7 @@ A equipe está utilizando o GitHub para organização e estruturação das taref
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/956 e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/blob/main/src/img/Planejamento_projeto_eixo_1_github.png">
+  <img src="/docs/img/productBacklog.png">
     <figcaption>Figura 1 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
 
