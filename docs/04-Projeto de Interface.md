@@ -5,7 +5,7 @@
 
 O User Flow cria uma visualização do fluxo de navegação do usuário pelas páginas da aplicação para auxiliar os desenvolvedores em sua concepção.
 
-## INSERIR IMAGEM DO FLUXOGRAMA 
+ ![Tela Home (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/3e14fe5e-4e8e-4d85-83ba-efb91f4bee03)
 
 ## Wireframes
 
