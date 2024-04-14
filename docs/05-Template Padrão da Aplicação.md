@@ -10,26 +10,24 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 <li>Font-size: 16px e 29px. </li>
 </ul>
   
-O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/img">aqui</a>.
+O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main/src">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/tree/main/docs/img">aqui</a>.
 
-<h3><b>Tela de visualização dos livros</b></h3>
-<p>Exibe informações sobre os livros, a imagem da capa e o contato do proprietário do livro.</p>
+<h3><b>Tela de visualização dos Cursos</b></h3>
+<p>Exibe informações sobre os cursos e a imagem da respectiva capa.</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31ee5c54d50.png">
-  <figcaption> Figura 1 - Tela de Livros
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/d972d7ea-5d0e-4496-8b90-07cf5ec99eb4"> <br>
+  
+  <figcaption> Figura 1 - Tela de Cursos
 </figure> 
 
-<h3><b>Tela de visualização dos tutores e disciplinas</b></h3>
-<p>Exibe informações sobre os tutores/alunos, disciplinas e contato.</p>
+<h3><b>Tela de visualização dos tutoriais </b></h3>
+<p>Exibe tela com os tutoriais com resumo do assunto .</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f56.png">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/93311ffc-0ead-4b2c-995a-2196f4e7fd1d">  <br>
   <figcaption>Figura 2 - Tela de Tutorias      
 </figure> 
 <hr>
   
-<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
+<p>Para a criação do logotipo do site será utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento, sabedoria e aprendizado . </p>
 
-<figure> 
-  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marc texto.png?raw=true)">
-    <figcaption>Figura 3 - Logotipo da aplicação web Vida de Estudante
-</figure> 
+
