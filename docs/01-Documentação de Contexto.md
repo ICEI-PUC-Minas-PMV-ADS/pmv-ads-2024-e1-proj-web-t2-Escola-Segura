@@ -23,7 +23,7 @@ Quanto a objetivos específicos, destacamos:
 
 - Proporcionar cursos de APH para escolas; 
 
-- Oferecer um ambiente virtual de acesso contínuo a cartilhas e apostilas instrutivas; 
+- Oferecer um ambiente virtual de acesso com diversos tipos de midia; 
 
 - Fornecer informações atualizadas dos canais oficiais de assistência qualificada. 
 
