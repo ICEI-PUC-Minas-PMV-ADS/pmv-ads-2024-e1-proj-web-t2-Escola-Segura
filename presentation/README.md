@@ -2,6 +2,6 @@
 
 ## Apresentação de slide 
 
-[slideEscolaSegura.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/files/14970867/slideEscolaSegura.pdf)
+[Apresentação - Slide Escola Segura.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/blob/main/presentation/slideEscolaSegura.pdf)
 
 
