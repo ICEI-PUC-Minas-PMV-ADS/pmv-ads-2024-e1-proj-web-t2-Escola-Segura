@@ -2,10 +2,11 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores Web.
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
+### [0.1.0] - 20/04/2024
 #### Adicionado
-- Adicionado ...
+- Homepage: arquivos HTML, CSS e imagens.
+  
