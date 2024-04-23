@@ -34,13 +34,18 @@ Funcionários da área de educação, seja de educação pública ou privada.
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Professor           |me cadastrar no site   | fazer um curso de primeiros socorros. |
-|Professor           |ter acesso ao curso de primeiros socorros basicos | manter meu emprego na instituição. |
+|Professor           |logar na minha conta | Fazer um Curso para saber lidar com uma emergencia.|
+|Coordenador         |Pesquisar o telefone do atendimento emergencial da área | solicitar uma ambulância. |
+|Professor           |ter acesso a pagina de cursos dispniveis. | Buscar tecnicas de salvamento e um desenvolvimento pessoal. |
 |Monitor             |consultar um tutorial especifico de APH | realizar um salvamento até a ajuda profissional chegar. |
 |Professor           |conquistar o certificado de conclusão de curso de primeiros socorros | adicionar ao meu curriculo. |
-|Coordenador         |encontrar o telefone do atendimento emergencial da área | solicitar uma ambulância. |
-|Professor           |pesquisar um procedimento de primeiros socorros  | prestar um socorro adequado ao aluno. |
-|Professor           |saber diferenciar qual serviço emergencial chamar em uma emergência | ligar para ajuda profissional correta quando necessário. |
-|Professor| filtrar/pesquisar um contato de emergência de maneira mais fácil | encontrar rapidamente o contato da emergência. |
+|Professor| Encontrar um contato de emergência de maneira mais fácil em ambito nacional | encontrar rapidamente o contato da emergência. |
+|Professor | Acessar os materiais de forma mais facil  | Saber diferenciar os cursos pela foto da capa.
+|Professor | Consultar os cursos que já conclui | Emitir o certificado. |
+|Professor | Selecionar o curso que mais me atenda de acordo com a descrição | Escolher o curso certo. |
+
+
+
 
 ## Requisitos
 
@@ -50,7 +55,7 @@ Funcionários da área de educação, seja de educação pública ou privada.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| A aplicação deve permitir que o usuário cadastrar uma conta. | ALTA | 
-|RF-002| A aplicação deve permitir que o usuário fazer login da sua conta.  | ALTA |
+|RF-002| A aplicação deve permitir que o usuário faça login na sua conta.  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | 
 |RF-004| A aplicação deve oferecer um catálogo de cursos.  | ALTA |
 |RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar tutoriais específicos. | ALTA | 
