@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola Segura - Cadastro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../paginaHome/style.css">
+    <link rel="stylesheet" href="styleCadastro.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../paginaHome/logo.png" alt="logo">
+        </div>
+        
+        <div id="headerMenu">
+            <ul>
+                    <li><a href="../paginaHome/index.html">HOME</a></li>
+                    <li><a href="#">CURSOS</a></li>
+                    <li><a href="#">TUTORIAIS</a></li>
+                    <li><a href="#">SOBRE</a></li>
+                    <li><a href="#">CONTATO</a></li>
+                    <li><a href="#">LOGIN</a></li>
+            </ul>
+        </div>     
+            
+      
+    </header>
+
+        <div class="gradient"></div>
+    
+        <main>
+            <form onsubmit="return false" class="formulario">
+                <h1>Cadastro</h1>
+                <div class="formCadastro">
+                    
+                    <div class="itemCadastro">
+                        <label>Nome Completo <span class="itemObrigatorio">*</span></label><br>
+                        <input type="text" name="nomeCompleto" id="nomeCompleto" minlength="8" required placeholder="Nome Completo"><br>
+                    </div>
+                    <div class="itemCadastro">
+                        <label>E-mail <span class="itemObrigatorio">*</span></label><br>
+                        <input type="email" name="email" id="email" required placeholder="E-mail"><br>
+                    </div>
+                    <div class="itemCadastro">
+                        <label>Senha <span class="itemObrigatorio">*</span></label><br>
+                        <input type="password" name="senha" id="senha" minlength="8" required placeholder="Senha"><br>
+                    </div>
+                    <div class="itemCadastro">
+                        <label>Confirmar Senha <span class="itemObrigatorio">*</span></label><br>
+                        <input type="password" name="confirmarSenha" id="confirmarSenha" minlength="8" required placeholder="Confirmar Senha">
+                    </div>
+                    <div>
+                        <input type="submit" id="btnCadastrar" onclick="cadastrar()" value="Cadastrar" />
+                    </div>
+                    <div>
+                    </div>
+                </div>
+            </form>
+        </main>
+
+        <div class="gradient"></div>
+
+        <footer>
+            <div>
+                <img src="../paginaHome/logo.png" alt="logo">
+            </div>
+            <div class="menuFooter">
+                <div class="menuFooter1">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Cursos</a></li>
+                        <li><a href="#">Tutoriais</a></li>
+                    </ul>
+                </div>
+                <div class="menuFooter2">
+                    <ul>    
+                        <li><a href="#">Sobre</a></li>
+                        <li><a href="#">Contato</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </footer>
+        <script src="scriptCadastro.js"></script>
+</body>
+</html>
