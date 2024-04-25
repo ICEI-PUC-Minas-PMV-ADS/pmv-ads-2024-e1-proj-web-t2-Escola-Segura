@@ -43,7 +43,7 @@ function cadastrar() {
 
     localStorage.setItem("dadosUsuario", JSON.stringify(dadosUsuario));
 
-    window.location.href="../paginaHome/index.html";
+    window.location.href="../paginaLogin/login.html";
 }
 
 

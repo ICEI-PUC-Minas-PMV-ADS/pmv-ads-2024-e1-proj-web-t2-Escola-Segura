@@ -28,7 +28,7 @@ function logar() {
     }
     
         if (email.value == tempUsuario.email && senha.value == tempUsuario.senha ){
-            window.location.href = "logado.html";
+            window.location.href = "../paginaHome/index.html";
         } else {
             alert("Usuario ou senha Invalidos!")
         }
