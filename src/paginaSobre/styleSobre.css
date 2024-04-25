@@ -1,0 +1,41 @@
+
+body{
+    font-family: 'Nunito', Courier, monospace;  
+    font-weight: 300;
+}
+
+main{
+    text-align: center;
+    height: 800px;
+}
+
+h1{
+    margin-top: 60px;
+}
+main> h1> p> img{
+    display: block;
+    width: 2px;
+    
+}
+
+.sobrecompleto{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Nunito', Courier, monospace;  
+}
+.sobrecompleto > div > img{
+width: 400px;
+border: 2px solid #ddd;
+border-radius: 10px;
+margin: 40px;
+}
+.sobrecompleto > div > p {
+    
+    margin: 10px;
+    text-align:center;
+    font-family: 'Nunito', Courier, monospace; 
+}
+
