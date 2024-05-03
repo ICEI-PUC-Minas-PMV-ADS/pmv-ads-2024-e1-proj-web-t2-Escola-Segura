@@ -77,8 +77,8 @@ Funcionários da área de educação, seja de educação pública ou privada.
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox e Microsoft Edge. | ALTA | 
 |RNF-002| A aplicação deve ter visualização responsiva adequada em desktops, tablets e celulares. |  ALTA | 
-|RNF-003| A aplicação deve oferecer acesso a contatos de serviços emergenciais em no máximo 2 segundos. |  MÉDIA |
-|RNF-004| A aplicação deve exigir uma senha forte no cadastro com letras maiúsculas, minúsculas e simbolos |  MÉDIA |
-|RNF-005| A aplicação deve estar diponivel 24 horas em 95% do tempo disponivel. |  MÉDIA |
+|RNF-003| A aplicação deve responder a pesquisa de contatos de serviços emergenciais em no máximo 2 segundos. |  MÉDIA |
+|RNF-004| A aplicação deve exigir uma senha forte no cadastro com no minimo 8 caracteres contendo 1 letra maiúscula, 1 minúscula e 1 simbolo especial. |  MÉDIA |
+|RNF-005| A aplicação deve estar diponivel 95% do tempo em 24 horas. |  MÉDIA |
 
 **Prioridade: Alta / Média / Baixa.
