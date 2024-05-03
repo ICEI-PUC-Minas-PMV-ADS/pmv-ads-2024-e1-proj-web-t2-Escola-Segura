@@ -22,7 +22,9 @@
                     <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
                     <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
                     <li><a href="../paginaContato/contato.html">CONTATO</a></li>
-                    <li><a href="../paginaLogin/login.html">LOGIN</a></li>
+                    <li><a href="../paginaLogin/login.html" id="btnLogin">LOGIN</a></li>
+                    <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
+
             </ul>
         </div>     
             
@@ -89,5 +91,25 @@
                 </div>
             </div>
         </footer>
-</body>
+
+        <script>
+            var logado = false;
+
+            //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
+            if (localStorage.getItem("acesso") == "true") {
+                logado = true;
+                
+                var element = document.getElementById('btnLogin');
+                element.parentElement.removeChild(element);
+            };
+
+            //Verifica se logado não é verdadeiro, se sim remove link para Perfil e permanece Login
+            if (logado != true){
+                
+                var element = document.getElementById('btnPerfil');
+                element.parentElement.removeChild(element);
+            }
+        </script>
+
+    </body>
 </html>

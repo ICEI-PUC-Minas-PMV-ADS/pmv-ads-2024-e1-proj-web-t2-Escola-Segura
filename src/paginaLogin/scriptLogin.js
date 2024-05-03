@@ -26,7 +26,8 @@ function logar() {
                 email: elemento.emailUsuario,
                 senha: elemento.senhaUsuario
             }
-    
+            
+            localStorage.setItem("acesso", true);
 
         }
         
