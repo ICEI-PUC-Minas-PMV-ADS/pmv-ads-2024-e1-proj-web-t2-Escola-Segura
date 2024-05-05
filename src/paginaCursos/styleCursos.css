@@ -1,8 +1,106 @@
+header {
+background: #97D7C6;
+}
+
 main {
     height: 800px;
 }
 
 h1 {
-    margin-top: 300px;
+    margin-top: 50px;
     text-align: center;
+}
+
+.gradient {
+    background: linear-gradient(270deg, #59A7A7 0, #97D7C6 12%, #DAC94A 47%, #F3F2E7, #446497) 0 100% transparent no-repeat;
+    height: 6px;
+}
+
+.search {
+    --padding: 14px;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: var(--padding);
+    border-radius: 28px;
+    background: #f6f6f6;
+    width: 800px;
+    transition: box-shadow 0.25s;
+}
+
+.search:focus-within{
+    box-shadow: 0 0 2px rgba(0, 0, 0, .75);
+}
+
+.search-input {
+    font-size: 16px;
+    font-family: 'Nunito', Courier, monospace;
+    color: #333;
+    margin-left: var(--padding);
+    outline: none;
+    border: none;
+    background: transparent;
+    flex: 1;
+}
+
+.search-input::placeholder, .search-icon {
+    color: rgba(0, 0, 0, .5);
+}
+
+#banner > img {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+.cards > div > img {
+    max-width: 100%;
+    max-height: 90%;
+    display: block;
+    border-radius: 6px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1303px;
+    margin: 0 auto;
+    margin-top: -70px;
+    
+}
+
+.cards > div {
+
+    border-radius: 6px;
+    flex: 1 1 300px;
+    margin: 30px;
+    box-shadow: -2px 2px 4px 0px rgba(0,0,0,0.5);
+    -webkit-box-shadow: -2px 2px 4px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: -2px 2px 4px 0px rgba(0,0,0,0.5);
+
+
+}
+
+.cards > div > a {
+    text-align: center;
+    text-decoration: none;
+}
+
+.cards > div:hover{
+    max-width: 101%;
+    box-shadow: -2px 2px 15px 0px rgba(0,0,0,0.5);
+    -webkit-box-shadow: -2px 2px 15px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: -2px 2px 15px 0px rgba(0,0,0,0.5);
+    background-color: #97D7C6;
+    transition: 0.8s all;
+}
+
+footer {
+    background: #97D7C6;
 }

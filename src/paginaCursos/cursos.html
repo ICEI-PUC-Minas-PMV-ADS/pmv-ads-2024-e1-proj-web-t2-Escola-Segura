@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 </head>
 <body>
     <header>
@@ -23,17 +24,37 @@
                     <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
                     <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
                     <li><a href="../paginaContato/contato.html">CONTATO</a></li>
-                    <li><a href="../paginaLogin/login.html" id="btnLogin">LOGIN</a></li>
-                    <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
-
+                    <li><a href="../paginaLogin/login.html">LOGIN</a></li>
             </ul>
         </div>     
-            
-      
     </header>
-        
-        <main>
-          <h1>Página em Desenvolvimento.. </h1>
+
+    <div class="gradient"></div>
+    <main>
+        <h1>Cursos</h1>
+        <form class="pesquisa">
+            <div class="search">
+                <span class=" search-icon material-symbols-outlined">search</span>
+                <input class="search-input" type="search" placeholder="Pesquisar">
+            </div>
+        </form>
+
+            <section class="cards">
+                <div>
+                    <img src="1.jpg" alt="foto card">
+                    <a href="#"><p> Curso de Primeiros Socorros dos Bombeiros</p></a>
+                </div>
+
+                <div>
+                    <img src="2.jpg" alt="foto card">
+                    <a href="#"><p>Curso de Primeiros Socorros Infantil</p></a>
+                </div>
+
+                <div>
+                    <img src="4.jpg" alt="foto card">
+                    <a href="#"><p>Curso de Primeiros Socorros IBRAPH</p></a>
+                </div>
+            </section>
         </main>
 
         <div class="gradient"></div>
@@ -59,25 +80,5 @@
                 </div>
             </div>
         </footer>
-
-        <script>
-            var logado = false;
-
-            //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
-            if (localStorage.getItem("acesso") == "true") {
-                logado = true;
-                
-                var element = document.getElementById('btnLogin');
-                element.parentElement.removeChild(element);
-            };
-
-            //Verifica se logado não é verdadeiro, se sim remove link para Perfil e permanece Login
-            if (logado != true){
-                
-                var element = document.getElementById('btnPerfil');
-                element.parentElement.removeChild(element);
-            }
-        </script>
-
-    </body>
+</body>
 </html>
