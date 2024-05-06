@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <title>Escola Segura - Gerar certificado</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="scriptCertificado.js" defer></script>
+    <link rel="stylesheet" href="../paginaHome/style.css">
+    <link rel="stylesheet" href="styleCertificado.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="..//paginaHome/logo.png" alt="logo">
+        </div>
+        
+        <div id="headerMenu">
+            <ul>
+                <li><a href="../paginaHome/index.html">HOME</a></li>
+                <li><a href="../paginaCursos/cursos.html">CURSOS</a></li>
+                <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
+                <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
+                <li><a href="../paginaContato/contato.html">CONTATO</a></li>
+                <li><a href="../paginaPerfil/perfil.html" id="btnLogin">LOGIN</a></li>
+                <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
+
+                
+            </ul>
+        </div>     
+            
+      
+    </header>
+
+    <div class="gradient"></div>
+
+    <div id="navBtn">
+        <input type="submit" id="generatePdf" value="Baixar Certificado"/>
+    </div>
+
+    <div id="content">
+        <img src="fundoCertificado.jpg" width="1128px" height="790px">
+        
+        <div id="text">
+            <h1 id="certificado">Certificado</h1>
+            <p class="textCertificado">Certificamos que <span id="nomeUser"></span></p>
+            <p class="textCertificado">concluiu em <span id="data"></span> com êxito</p>
+            <p class="textCertificado">O <span id="nomeCurso"></span></p>
+            <p class="textCertificado">com carga horaria de 2 horas.</p>
+            <br>
+            <br>
+            <p>_________________________________________________________</p>
+            
+
+        </div>
+    </div>
+
+    <script>
+        
+        var logado = false;
+
+        var dadosUsuario = [];
+
+        dadosUsuario = JSON.parse(localStorage.getItem("dadosUsuario"));
+
+        for (let i = 0; i < dadosUsuario.length; i++) {
+        const elemento = dadosUsuario[i];
+        
+        tempUsuario = {
+            nome: elemento.nomeUsuario,
+        },
+
+        tempCursos = {
+                curso1: "Curso Primeiros Socorros - Modulo 1",
+                curso2: "Tutorial Como Socorrer Vitima de Engasgo",
+                curso3: "Curso Primeiros Socorros - Modulo 2",
+                curso4: "",
+                curso5: ""
+        }
+
+        var nomeTitulo = tempUsuario.nome;
+        var nomeCurso = tempCursos.curso1;
+        var dataAtual = new Date();
+
+        const dataFormatada = dataAtual.toLocaleDateString();
+
+        document.getElementById('nomeUser').innerHTML = nomeTitulo;
+        document.getElementById('nomeCurso').innerHTML = nomeCurso;
+        document.getElementById('data').innerHTML = dataFormatada;
+
+
+        }
+        
+        //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
+        if (localStorage.getItem("acesso") == "true") {
+            logado = true;
+            
+            var element = document.getElementById('btnLogin');
+            element.parentElement.removeChild(element);
+        };
+
+        //Verifica se acesso em localStorage não é verdadeiro, se sim remove link para Perfil e permanece Login
+        //if (logado != true){
+            
+            //alert("Usuario não autenticado!");
+            //window.location.href="../paginaLogin/login.html";
+        //}
+    </script>
+    
+</body>
+
+</html>
