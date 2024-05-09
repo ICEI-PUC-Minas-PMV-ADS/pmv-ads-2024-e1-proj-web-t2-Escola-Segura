@@ -73,7 +73,6 @@ table{
 }
 
 
-
 table caption{
     background-color: #59A7A7;
     font-size: 40px;
@@ -97,8 +96,9 @@ th{
 td{
     background-color:white;
     height: 30px;
-    
+
 }
+
 footer {
     display: flex;
     background-color: white;
