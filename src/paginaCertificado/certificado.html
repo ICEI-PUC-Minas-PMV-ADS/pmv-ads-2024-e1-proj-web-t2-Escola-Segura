@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-compatible" content="IE=edge">
     <title>Escola Segura - Gerar certificado</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>   
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
@@ -14,48 +15,61 @@
     <link rel="stylesheet" href="styleCertificado.css">
 </head>
 <body>
-    <header>
-        <div>
-            <img src="..//paginaHome/logo.png" alt="logo">
-        </div>
-        
-        <div id="headerMenu">
-            <ul>
-                <li><a href="../paginaHome/index.html">HOME</a></li>
-                <li><a href="../paginaCursos/cursos.html">CURSOS</a></li>
-                <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
-                <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
-                <li><a href="../paginaContato/contato.html">CONTATO</a></li>
-                <li><a href="../paginaPerfil/perfil.html" id="btnLogin">LOGIN</a></li>
-                <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
-
-                
-            </ul>
-        </div>     
+    <div class="non-printable">
+        <header>
+            <div>
+                <img src="..//paginaHome/logo.png" alt="logo">
+            </div>
             
-      
-    </header>
+            <div id="headerMenu">
+                <ul>
+                    <li><a href="../paginaHome/index.html">HOME</a></li>
+                    <li><a href="../paginaCursos/cursos.html">CURSOS</a></li>
+                    <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
+                    <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
+                    <li><a href="../paginaContato/contato.html">CONTATO</a></li>
+                    <li><a href="../paginaPerfil/perfil.html" id="btnLogin">LOGIN</a></li>
+                    <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
 
-    <div class="gradient"></div>
+                    
+                </ul>
+            </div>     
+                
+        
+        </header>
 
-    <div id="navBtn">
-        <input type="submit" id="generatePdf" value="Baixar Certificado"/>
+        <div class="gradient"></div>
+
+        <div id="navBtn">
+            <button id="generatePdf" onclick="gerarpdf()">Gerar Certificado</button>
+        </div>
     </div>
 
-    <div id="content">
-        <img src="fundoCertificado.jpg" width="1128px" height="790px">
-        
-        <div id="text">
-            <h1 id="certificado">Certificado</h1>
-            <p class="textCertificado">Certificamos que <span id="nomeUser"></span></p>
-            <p class="textCertificado">concluiu em <span id="data"></span> com êxito</p>
-            <p class="textCertificado">O <span id="nomeCurso"></span></p>
-            <p class="textCertificado">com carga horaria de 2 horas.</p>
-            <br>
-            <br>
-            <p>_________________________________________________________</p>
-            
-
+    <div style="display: flex;
+            justify-content: center;">
+        <div id="content" class="printable"> <img src="fundoCertificado.png" style="background-size: 1128px;
+            text-align: center;
+            margin: 0;
+            position: relative;
+            width: 1128px;
+            height: 746px; 
+            z-index: 0; 
+            padding: 0;">
+    
+    
+            <div id="text" style="z-index: 1;">
+    
+                <h1 id="certificado">Certificado</h1>
+                <p class="textCertificado">Certificamos que <span id="nomeUser">ANA PAULA RODRIGUES..</span></p>
+                <p class="textCertificado">concluiu em <span id="data">05/05/2024</span> com êxito</p>
+                <p class="textCertificado">O <span id="nomeCurso">Curso Primeiros Socorros - Modulo 1</span></p>
+                <p class="textCertificado">com carga horaria de 2 horas.</p>
+                <br>
+                <br>
+                <p>_________________________________________________________</p>
+    
+    
+            </div>
         </div>
     </div>
 
@@ -104,11 +118,11 @@
         };
 
         //Verifica se acesso em localStorage não é verdadeiro, se sim remove link para Perfil e permanece Login
-        //if (logado != true){
+        if (logado != true){
             
-            //alert("Usuario não autenticado!");
-            //window.location.href="../paginaLogin/login.html";
-        //}
+            alert("Usuario não autenticado!");
+            window.location.href="../paginaLogin/login.html";
+        }
     </script>
     
 </body>

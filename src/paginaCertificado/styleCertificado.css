@@ -1,7 +1,7 @@
 
 .fundoCertificado {
     width: 1128px;
-    height: 790px;
+    height: 760px;
 }
 
 #content {
@@ -12,13 +12,13 @@
     margin: 0 auto;
     position: relative;
     width: 1128px;
-    height: 790px;
+    height: 760px;
 }
 
 #text {
     position: absolute;
-    top: 240px;
-    left: 510px;
+    top: 30%;
+    left: 50%;
 }
 
 #certificado {
@@ -70,4 +70,13 @@
 #nomeCurso {
     font-size: 22px;
     font-weight: 600;
+}
+
+@media screen {
+    .printable { display: flex;}
+    .non-printable { display: block;}
+}
+@media print {
+    .non-printable { display: none;}
+    .printable { display: flex; margin: 0; padding: 0;} 
 }
