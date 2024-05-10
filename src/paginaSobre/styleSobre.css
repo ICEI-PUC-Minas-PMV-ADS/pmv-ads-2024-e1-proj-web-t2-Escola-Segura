@@ -12,6 +12,7 @@ main{
 h1{
     margin-top: 60px;
 }
+
 main> h1> p> img{
     display: block;
     width: 2px;
@@ -24,7 +25,8 @@ main> h1> p> img{
     margin: 0 auto;
     flex-direction: row;
     align-items: center;
-    font-family: 'Nunito', Courier, monospace;  
+    font-family: 'Nunito', Courier, monospace;
+    font-size: 20px;  
 }
 .sobrecompleto > div > img{
 width: 400px;
