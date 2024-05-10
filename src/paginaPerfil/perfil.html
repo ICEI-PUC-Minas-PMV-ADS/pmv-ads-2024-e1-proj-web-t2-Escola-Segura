@@ -110,6 +110,42 @@
         <script>
             var logado = false;
 
+            var dadosUsuario = [];
+
+            dadosUsuario = JSON.parse(localStorage.getItem("dadosUsuario"));
+            
+            for (let i = o; i < dadosUsuario.length; i++) {
+            const elemento = dadosUsuario[i];
+            
+            tempUsuario = {
+                nome: elemento.nomeUsuario,
+                cursos: elemento.cursoRealizado
+            },
+
+            tempCursos = {
+                curso1: "Cursos Primeiros Socorros - Modulo 1",
+                curso2: "Tutorial Como Socorrer Vitima de Engasgo",
+                curso3: "Curso Primeiros Socorros - Modulo 2",
+                curso4: "",
+                curso5: "",
+                curso6: ""
+
+            }
+
+            var nomeTitulo = tempUsuario.nome;
+
+            document.getElementById('nomeTitulo').innerHTML = (" " + nomeTitulo);
+
+            document.getElementById('tdCurso1').innerHTML = (tempCursos.curso1);
+            document.getElementById('tdCurso2').innerHTML = (tempCursos.curso2);
+            document.getElementById('tdCurso3').innerHTML = (tempCursos.curso3);
+            document.getElementById('tdCurso4').innerHTML = (tempCursos.curso4);
+            document.getElementById('tdCurso5').innerHTML = (tempCursos.curso5);
+            document.getElementById('tdcurso6').innerHTML = (tempCursos.curso6);
+        }
+
+            
+
             //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
             if (localStorage.getItem("acesso") == "true") {
                 logado = true;
