@@ -47,7 +47,7 @@ h1 {
 }
 
 .search-input::placeholder, .search-icon {
-    color: rgba(68, 100, 151, 1));
+    color: rgba(68, 100, 151, 1);
 }
 
 #banner > img {
