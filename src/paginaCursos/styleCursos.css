@@ -31,7 +31,7 @@ h1 {
     box-shadow: 0 0 2px rgba(89, 167, 167, 1);
 }
 
-.search-input {
+#searchbar {
     font-size: 16px;
     font-family: 'Nunito', Courier, monospace;
     color: #446497;
@@ -42,7 +42,7 @@ h1 {
     flex: 1;
 }
 
-.search-input::placeholder, .search-icon {
+#searchbar::placeholder, .search-icon {
     color: rgba(68, 100, 151, 1);
 }
 

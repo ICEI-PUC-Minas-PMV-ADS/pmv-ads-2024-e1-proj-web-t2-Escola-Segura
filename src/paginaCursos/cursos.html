@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    
 </head>
 <body>
     <header>
@@ -24,7 +25,8 @@
                     <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
                     <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
                     <li><a href="../paginaContato/contato.html">CONTATO</a></li>
-                    <li><a href="../paginaLogin/login.html">LOGIN</a></li>
+                    <li><a href="../paginaLogin/login.html" id="btnLogin">LOGIN</a></li>
+                    <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
             </ul>
         </div>     
     </header>
@@ -36,22 +38,22 @@
         <form class="pesquisa">
             <div class="search">
                 <span class=" search-icon material-symbols-outlined">search</span>
-                <input class="search-input" type="search" placeholder="Pesquisar">
+                <input id="searchbar" type="search"  placeholder="Pesquisar" onkeyup="search()">
             </div>
         </form>
 
             <section class="cards">
-                <div>
+                <div class="nomeCurso">
                     <img src="../paginaHome/1.jpg" alt="foto card">
                     <a href="#"><p> Curso de Primeiros Socorros dos Bombeiros</p></a>
                 </div>
 
-                <div>
+                <div class="nomeCurso">
                     <img src="../paginaHome/2.jpg" alt="foto card">
                     <a href="#"><p>Curso de Primeiros Socorros Infantil</p></a>
                 </div>
 
-                <div>
+                <div class="nomeCurso">
                     <img src="4.jpg" alt="foto card">
                     <a href="#"><p>Curso de Primeiros Socorros IBRAPH</p></a>
                 </div>
@@ -82,5 +84,8 @@
             </div>
         </footer>
         <script src="scriptCursos.js"></script>
+        <script>
+            
+        </script>
 </body>
 </html>
