@@ -32,14 +32,14 @@
       
     </header>
         
+        <div class="gradient"></div>
+        
         <main>
-            <div class="gradient">
-    
-            </div>
-            <main>
-                <div class="content">
-              <table>
-                <caption> Bem vindo(a), nome de usuário.</caption>
+
+            <div class="content">
+              
+                <table>
+                <caption> Bem vindo(a),<span id="nomeTitulo"></span></caption>
                 <thead>
                     <tr>
                         <th>#</th>
@@ -50,33 +50,33 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Curso de Primeiros Socorros dos Bombeiros</td>
+                        <td id="tdCurso1"></td>
                         <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Curso de Primeiros Socorros Infantil</td>
+                        <td  id="tdCurso2"></td>
                         <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Curso de Primeiros Socorros IBRAPH</td>
+                        <td id="tdCurso3"></td>
                         <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td># Tutoriais</td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td id="tdCurso4"></td>
+                        <td></a></td>
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td># Tutoriais</td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td id="tdCurso5"></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>6</td>
-                        <td># Tutoriais</td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td id="tdCurso6"></td>
+                        <td></td>
                     </tr>
                 </tbody>
               </table>
@@ -114,7 +114,7 @@
 
             dadosUsuario = JSON.parse(localStorage.getItem("dadosUsuario"));
             
-            for (let i = o; i < dadosUsuario.length; i++) {
+            for (let i = 0; i < dadosUsuario.length; i++) {
             const elemento = dadosUsuario[i];
             
             tempUsuario = {
@@ -141,7 +141,7 @@
             document.getElementById('tdCurso3').innerHTML = (tempCursos.curso3);
             document.getElementById('tdCurso4').innerHTML = (tempCursos.curso4);
             document.getElementById('tdCurso5').innerHTML = (tempCursos.curso5);
-            document.getElementById('tdcurso6').innerHTML = (tempCursos.curso6);
+            document.getElementById('tdCurso6').innerHTML = (tempCursos.curso6);
         }
 
             
