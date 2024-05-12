@@ -38,6 +38,11 @@
                     <h1>Contatos Emergênciais</h1>
                 </div>
                 <div class="listadecontatos">
+
+                    <div>
+                        <input id="searchbar" type="search" placeholder="Pesquisar" onkeyup="search()">
+                    </div>
+
                     <ul>
                         <li class="itemlista"><label class="nometel">Corpo de Bombeiro - 193</label><a href="tel:193"><img class="iconphone" src="iconphone.png"></a></li>
                         <li class="itemlista"><label class="nometel">Polícia Militar - 190</label><a href="tel:190"><img class="iconphone" src="iconphone.png"></a></li>
@@ -77,24 +82,7 @@
             </div>
         </footer>
 
-        <script>
-            var logado = false;
-
-            //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
-            if (localStorage.getItem("acesso") == "true") {
-                logado = true;
-                
-                var element = document.getElementById('btnLogin');
-                element.parentElement.removeChild(element);
-            };
-
-            //Verifica se logado não é verdadeiro, se sim remove link para Perfil e permanece Login
-            if (logado != true){
-                
-                var element = document.getElementById('btnPerfil');
-                element.parentElement.removeChild(element);
-            }
-        </script>
+        <script src="scriptContato.js"></script>
 
     </body>
 </html>

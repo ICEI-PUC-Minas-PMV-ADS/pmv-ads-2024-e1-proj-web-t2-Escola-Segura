@@ -202,3 +202,36 @@ footer p {
     }
 
 }
+
+#searchbar {
+    --padding: 14px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: var(--padding);
+    border-radius: 28px;
+    background: #f6f6f6;
+    width: 320px;
+    transition: box-shadow 0.25s;
+}
+
+#searchbar:focus-within{
+    box-shadow: 0 0 2px rgb(24, 27, 27);
+}
+
+#searchbar {
+    font-size: 16px;
+    font-family: 'Nunito', Courier, monospace;
+    color: #446497;
+    margin-left: var(--padding);
+    outline: none;
+    border: none;
+    background: white;
+    flex: 1;
+}
+
+.search-input::placeholder, .search-icon {
+    color: rgba(68, 100, 151, 1);
+}
