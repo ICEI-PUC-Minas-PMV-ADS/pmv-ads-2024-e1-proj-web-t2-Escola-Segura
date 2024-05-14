@@ -119,7 +119,7 @@ footer img {
 }
 
 .gradient {
-    background: linear-gradient(270deg, #59A7A7 0, #97D7C6 12%, #DAC94A 47%, #F3F2E7, #446497) 0 100% transparent no-repeat;
+    background: linear-gradient(270deg, #59A7A7 0, #97D7C6 12%, #DEEC74 47%, #F3F2E7, #446497) 0 100% transparent no-repeat;
     height: 6px;
 }
 
