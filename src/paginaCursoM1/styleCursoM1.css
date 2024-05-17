@@ -1,0 +1,133 @@
+.sidebar {
+    height: 70%;
+    width: 200px;
+    margin: 10px;
+    position: fixed;
+    z-index: 1;
+    background-color: #97D7C6;
+    overflow-x: hidden;
+    padding-top: 10px;
+    border: 1px solid #59A7A7;
+    border-radius: 25px;
+}
+
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color:#446497;
+    display: block;
+    line-height: 1.25;
+  }
+
+  .sideTitulo:hover {
+    color: #DEEC74;
+}
+
+  .aulas {
+    text-align: center;
+    color:#31476c;
+  }
+
+  .tituloCurso {
+    background-color: #e0e0e0;
+    margin-left: 250px;
+    height: 20%;
+    max-width: 950px;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 75px;
+  }
+
+  h1 {
+    text-align: center;
+    color:#31476c;
+  }
+
+  .titulo1 {
+    text-align: center;
+    color: #31476c;
+  }
+
+  .titulo1:hover {
+    color: #446497;
+  }
+
+  .intro {
+    background-color: #e0e0e0;
+    margin-left: 250px;
+    height: 20%;
+    max-width: 950px;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 25px;
+    line-height: 30px;
+    letter-spacing: inherit;
+  }
+
+#engasgos {
+    margin-left: 250px;
+    height: 20%;
+    max-width: 950px;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #59A7A7;
+    border-radius: 25px;
+    line-height: 30px;
+    letter-spacing: inherit;
+}
+
+.comoId {
+    background-color: #DEEC74;
+    padding: 10px;
+    margin-top: 15px;
+    max-width: 610px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#engasgos > img {
+    width: 100%;
+}
+
+.obs {
+    display: inline-flex;
+    background-color: #DEEC74;
+    padding: 10px;
+    min-width: 45%;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.obs2 {
+    display: inline;
+    float: right;
+    text-align: right;
+    overflow: hidden;
+    background-color: #DEEC74;
+    padding: 10px;
+    min-width: 45%;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.obsP {
+    display: inline-flex;
+    background-color: #e0e0e0;
+    padding: 5px;
+    min-width: 45%;
+    max-width: 45%;
+    margin-top: 1px;
+}
+
+.obsT {
+    display: inline;
+    float: right;
+    overflow: hidden;
+    background-color: #e0e0e0;
+    padding: 5px;
+    min-width: 45%;
+    max-width: 45%;
+    margin-top: 1px;
+}
