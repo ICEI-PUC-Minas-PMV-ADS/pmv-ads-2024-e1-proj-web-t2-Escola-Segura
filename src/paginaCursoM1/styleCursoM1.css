@@ -1,5 +1,11 @@
+main {
+  background-color: #e0e0e0;
+}
+
+
+
 .sidebar {
-    height: 70%;
+    height: 65%;
     width: 200px;
     margin: 10px;
     position: fixed;
@@ -7,8 +13,10 @@
     background-color: #97D7C6;
     overflow-x: hidden;
     padding-top: 10px;
-    border: 1px solid #59A7A7;
-    border-radius: 25px;
+    border: 1px solid #fff;
+   border-radius: 0 120px 0 120px;
+  -moz-border-radius: 0 120px 0 120px;
+  -webkit-border-radius: 0 120px 0 120px;
 }
 
 .sidebar a {
@@ -18,7 +26,7 @@
     font-weight: bold;
     color:#446497;
     display: block;
-    line-height: 1.25;
+    line-height: 1.0;
   }
 
   .sideTitulo:hover {
@@ -26,12 +34,13 @@
 }
 
   .aulas {
-    text-align: center;
+    text-align: left;
     color:#31476c;
+    padding: 6px 8px 6px 16px;
   }
 
   .tituloCurso {
-    background-color: #e0e0e0;
+    background-color: #fff;
     margin-left: 250px;
     height: 20%;
     max-width: 950px;
@@ -55,7 +64,7 @@
   }
 
   .intro {
-    background-color: #e0e0e0;
+    background-color: #fff;
     margin-left: 250px;
     height: 20%;
     max-width: 950px;
@@ -67,6 +76,7 @@
   }
 
 #engasgos {
+  background-color: #fff;
     margin-left: 250px;
     height: 20%;
     max-width: 950px;
@@ -130,4 +140,74 @@
     min-width: 45%;
     max-width: 45%;
     margin-top: 1px;
+}
+
+.heimlich {
+max-width: 40%;
+max-height: 40%;
+float: left;
+}
+
+.heimlich2 {
+  max-width: 40%;
+  max-height: 40%;
+  float: right;
+  display: block;
+  padding-bottom: 30px;
+}
+
+.youtube {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#desmaio {
+  background-color: #fff;
+  margin-left: 250px;
+  height: 20%;
+  max-width: 950px;
+  padding: 15px;
+  margin-top: 15px;
+  border: 1px solid #59A7A7;
+  border-radius: 25px;
+  line-height: 30px;
+  letter-spacing: inherit;
+}
+
+.desmaio {
+  color: #446497;
+}
+
+.desmaio:hover {
+  color: #DEEC74;
+}
+
+.convulsao {
+  color: #446497;
+  padding-top: 20px;;
+}
+
+.convulsao:hover {
+  color: #DEEC74;
+}
+
+.aviso {
+  background-color:#DEEC74;
+  max-width:fit-content;
+  border-radius: 75px;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+#parada {
+  background-color: #fff;
+  margin-left: 250px;
+  height: 20%;
+  max-width: 950px;
+  padding: 15px;
+  margin-top: 15px;
+  border: 1px solid #59A7A7;
+  border-radius: 25px;
+  line-height: 30px;
+  letter-spacing: inherit;
 }
