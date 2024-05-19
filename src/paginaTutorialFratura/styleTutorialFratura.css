@@ -1,0 +1,136 @@
+*{
+    font-family: "nunito";
+    box-sizing: border-box;
+
+}
+
+main {
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+}
+h1{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: left;
+    font-size: 38px;
+    font-family: "nunito";
+    color: #59a7a7;
+}
+h2{
+    color: #78bfb6;
+    font-family: "nunito";
+    font-size: 150%;
+    font-weight: 900;
+    margin: 0;
+    margin-top: -20px;
+
+
+}
+h3{
+    color: #707070;
+    font-family: "nunito";
+    font-size: 23px;
+    font-weight: 100;
+    margin-bottom: -10px;
+
+}
+p{
+    color: #464646;
+    
+
+}
+li{
+    color: #464646;
+   
+
+}
+.titulo{
+    padding: 15px 0;
+    position: relative;
+    z-index: 15;
+
+}
+.passo1, .passo3, .passo5, .passo7{
+    display: grid;
+    gap: 0 8.3125rem;
+    grid-template-columns: repeat(2, 1fr);
+    margin-right: 4rem;
+    padding: 0 3.1875rem 0 0;
+    position: relative;
+}
+
+.passo2, .passo4, .passo6{
+    display: grid;
+    gap: 0 6.3125rem;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 4rem;
+    position: relative;
+}
+
+
+.passo1 img {
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+.passo2 img{
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+.passo3 img{
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.passo4 img{
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.passo5 img {
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.passo6 img {
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.passo7 img {
+    width: 120%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.background{
+    background: linear-gradient(180deg, #fff, #97d7c6);
+    border-bottom-right-radius: 20px;
+    bottom: 2rem;
+    height: 60%;
+    padding: 0 0 auto;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.backgroundLeft{
+    background: linear-gradient(180deg, #fff, #97d7c6);
+    border-bottom-left-radius: 20px;
+    bottom: 2rem;
+    height: 60%;
+    padding: 0 0 auto;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
