@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola Segura</title>
+    <link rel="stylesheet" href="../paginaHome/style.css">
+    <link rel="stylesheet" href="styletutorialengasgo.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../paginaHome/logo.png" alt="logo">
+        </div>
+        
+        <div id="headerMenu">
+            <ul>
+                    <li><a href="../paginaHome/index.html">HOME</a></li>
+                    <li><a href="../paginaCursos/cursos.html">CURSOS</a></li>
+                    <li><a href="../paginaTutoriais/tutoriais.html">TUTORIAIS</a></li>
+                    <li><a href="../paginaSobre/sobre.html">SOBRE</a></li>
+                    <li><a href="../paginaContato/contato.html">CONTATO</a></li>
+                    <li><a href="../paginaLogin/login.html" id="btnLogin">LOGIN</a></li>
+                    <li><a href="../paginaPerfil/perfil.html" id="btnPerfil">PERFIL</a></li>
+            </ul>
+        </div>     
+            
+      
+    </header>
+        <div class="gradient"></div>
+            <main>
+                
+                
+                    <h1>Como Socorrer uma Vítima de Engasgo</h1>
+
+                    <div class="background">
+                        <h2 class="titulo">O que caracteriza o engasgo?</h2>
+                        <p>O engasgo é quando um corpo estranho entra na traqueia (líquido ou sólido) causando uma interrupção total ou
+                            parcial da passagem do ar respirado. Em bebês, ocorre principalmente por líquidos, em crianças maiores, por
+                            sólidos como alimentos (salsichas, balas, amendoins, pipocas) e pequenos objetos (partes de brinquedos, botões,
+                            etc).</p>
+                    
+                    </div>
+
+                <div class="background">
+                    <h2 class="titulo">Quais são os sinais de que uma criança está engasgada?</h2>
+                    <p>Geralmente alguns sinais dão indicativo que a criança esteja engasgada, tais como tosse, agitação, dificuldade de
+                        respirar, a cor roxa ao redor dos lábios e as mãos no pescoço, como se estivesse sufocada são sugestivos do
+                        bloqueio das vias aéreas. Algumas vezes, ela pode emitir sons respiratórios agudos ou ausência de som.</p>
+                </div>
+
+                <div class="background">
+                    <h2 class="titulo">O que fazer numa situação de engasgo?</h2>
+                    <p>No momento em que uma pessoa se deparar com essa situação, tecnicamente chamada de Obstrução das Vias Aéreas por
+                        Corpo Estranho (OVACE), deve ligar de imediato para o SAMU 192. Enquanto ocorre o deslocamento da ambulância até
+                        o local de atendimento, algumas ações não devem ser realizadas e outras podem ser feitas para salvar a vida da
+                        criança.
+                
+                        “Se a criança ou o bebê estiverem engasgados e conseguirem tossir, a recomendação é não chacoalhar, não bater
+                        nas costas, não virar de ponta cabeça e não tentar tirar o objeto da boca principalmente se não estiver vendo. O
+                        ideal é retirar com a mão objetos ou secreção que conseguimos visualizar”, explica o enfermeiro Luciano da Silva
+                        Costa, especialista em urgência e emergência.
+                
+                        A criança deve ser mantida em posição confortável. A tosse é a melhor chance de expelir o objeto que provocou o
+                        engasgo e indica que a criança está respirando. Se a pessoa interferir de outras formas, o objeto pode se
+                        deslocar e piorar a situação com uma obstrução completa, impedimento a respiração. Nos engasgos com objeto
+                        sólido, pode ocorrer obstrução total da passagem do ar pelas vias aéreas e assim haverá impedimento da entrada e
+                        saída de ar. Neste caso a criança ou o bebê não emitem qualquer som vocal e apresentam os lábios e pele
+                        arroxeados.</p>
+                
+                
+                </div>
+
+                <div class="video">
+                    <iframe width="780" height="480" src="https://www.youtube.com/embed/tC-OiNlHpcI?si=dMxS6od1WxnbAoZ7"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+    
+            </main>
+            <div class="gradient"></div>
+            <footer>
+                
+                <div>
+                    <img src="../paginaHome/logo.png" alt="logo">
+                </div>
+                <div class="menuFooter">
+                    <div class="menuFooter1">
+                        <ul>
+                            <li><a href="../paginaHome/index.html">Home</a></li>
+                            <li><a href="../paginaCursos/cursos.html">Cursos</a></li>
+                            <li><a href="../paginaTutoriais/tutoriais.html">Tutoriais</a></li>
+                        </ul>
+                    </div>
+                    <div class="menuFooter2">
+                        <ul>    
+                            <li><a href="../paginaSobre/sobre.html">Sobre</a></li>
+                            <li><a href="../paginaContato/contato.html">Contato</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+
+            <script>
+                var logado = false;
+     
+                //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
+                if (localStorage.getItem("acesso") == "true") {
+                    logado = true;
+                   
+                    var element = document.getElementById('btnLogin');
+                    element.parentElement.removeChild(element);
+                };
+     
+                //Verifica se logado não é verdadeiro, se sim remove link para Perfil e permanece Login
+                if (logado != true){
+                   
+                    var element = document.getElementById('btnPerfil');
+                    element.parentElement.removeChild(element);
+                }
+            </script>
+
+    </body>
+    </html>

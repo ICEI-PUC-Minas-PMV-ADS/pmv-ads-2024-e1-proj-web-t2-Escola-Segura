@@ -1,0 +1,50 @@
+h1{ 
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 38px;
+    font-family: 'nunito';
+    color: #59a7a7;
+
+}
+main{
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+
+h2{ 
+    font-size: 150%;
+    font-family: 'nunito';
+    color: #59a7a7;
+    font-weight: 900;
+    margin-left: 20px;
+    text-transform: uppercase;
+
+}
+
+p{
+    color: #464646;
+    padding: 25px;
+    padding-top: 6px;
+}
+
+.background{
+    width: 100%;
+    background: linear-gradient(180deg, #fff, #97d7c6);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    bottom: 2rem;
+    padding: 0 0 auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    
+}
+
+.video{
+    margin-bottom: 40px;
+    text-align: center;
+}
+iframe{
+    border-radius: 8px;
+}
