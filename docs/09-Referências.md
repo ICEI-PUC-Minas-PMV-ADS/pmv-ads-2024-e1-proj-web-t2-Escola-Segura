@@ -15,14 +15,14 @@ SENA, S. P.; RICAS, J.; VIANA, M. R. A. A percepção dos acidentes escolares po
 
 Primeiros Socorros para Fraturas, Mayo Clinic, 2024. Disponivel em: https://www.mayoclinic.org/first-aid/first-aid-broken-bone/basics/art-20056641 Acesso em 19 de maio de 2024.
 
+Primeiros Socorros para Queimaduras, Mayo Clinic, 2024. Disponivel em: https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649 Acesso em: 19 de mai. 2024.
+
 SEIXO, L. (2004), Os acidentes em meio escolar: Que intervenção? Disponível em: <https://rpmgf.pt/ojs/index.php/rpmgf/article/view/10029/9767>. Acesso em: 16 mar. 2024.
 
 SILVA, S. Lei Lucas: Primeiros Socorros nas Escolas. Beta Educação, 11 out. 2023. Disponível em: <https://betaeducacao.com.br/lei-lucas-primeiros-socorros-nas-escolas/>. Acesso em: 09 mar. 2024.
 
 SUTHERLAND, J. Scrum: a arte de fazer o dobro do trabalho na metade do tempo. [s.l.] Leya, 2016.
 
-
-
-
+Tratamento de Queimaduras, American Burn Association, 2023. Disponivel em: https://ameriburn.org/resources/burn-incidence-fact-sheet/ Acesso em: 19 mai. 2024.
 
 WALTON, G. Dominique Jean Larrey: Innovator of battlefield medicine. Disponível em: <https://www.geriwalton.com/battlefield-medicine-and-triage-innovator-dominque-jean-larrey>. Acesso em: 08 mar. 2024.
