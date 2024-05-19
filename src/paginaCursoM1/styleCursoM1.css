@@ -70,6 +70,7 @@ main {
     max-width: 950px;
     padding: 15px;
     margin-top: 15px;
+    border: 1px solid #446497;
     border-radius: 25px;
     line-height: 30px;
     letter-spacing: inherit;
@@ -157,6 +158,7 @@ float: left;
 }
 
 .youtube {
+  text-align: center;
   margin: 0 auto;
   padding: 20px;
 }
@@ -193,6 +195,7 @@ float: left;
 
 .aviso {
   background-color:#DEEC74;
+  text-align: center;
   max-width:fit-content;
   border-radius: 75px;
   padding: 10px;
@@ -210,4 +213,31 @@ float: left;
   border-radius: 25px;
   line-height: 30px;
   letter-spacing: inherit;
+}
+
+.importante {
+  background-color: #e0e0e0;
+  margin: 0 auto;
+  font-weight: bold;
+  text-align: center;
+}
+
+#afogamentos {
+  background-color: #fff;
+  margin-left: 250px;
+  height: 20%;
+  max-width: 950px;
+  padding: 15px;
+  margin-top: 15px;
+  border: 1px solid #59A7A7;
+  border-radius: 25px;
+  line-height: 30px;
+  letter-spacing: inherit; 
+}
+
+#afogamentos > ol > img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  display: block;
 }
