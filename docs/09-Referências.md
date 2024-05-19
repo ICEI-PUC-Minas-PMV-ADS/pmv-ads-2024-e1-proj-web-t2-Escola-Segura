@@ -13,13 +13,15 @@ LODER, R.T. The demographics of playground equipment injuries in children. Nursi
 PASCHOAL, S. R. G. et al. ESTRATÉGIA EDUCATIVA SOBRE PREVENÇÃO DE ACIDENTES INFANTIS PARA O ENSINO FUNDAMENTAL. Revista LEVS, n. 6, 1969.
 SENA, S. P.; RICAS, J.; VIANA, M. R. A. A percepção dos acidentes escolares por educadores do ensino fundamental, Belo Horizonte. Revista Medicina. Minas Gerais, v. 18, n. 4 Supl 1, p. S47-S54, 2008.
 
+Primeiros Socorros para Fraturas, Mayo Clinic, 2024. Disponivel em: https://www.mayoclinic.org/first-aid/first-aid-broken-bone/basics/art-20056641 Acesso em 19 de maio de 2024.
+
 SEIXO, L. (2004), Os acidentes em meio escolar: Que intervenção? Disponível em: <https://rpmgf.pt/ojs/index.php/rpmgf/article/view/10029/9767>. Acesso em: 16 mar. 2024.
 
 SILVA, S. Lei Lucas: Primeiros Socorros nas Escolas. Beta Educação, 11 out. 2023. Disponível em: <https://betaeducacao.com.br/lei-lucas-primeiros-socorros-nas-escolas/>. Acesso em: 09 mar. 2024.
 
 SUTHERLAND, J. Scrum: a arte de fazer o dobro do trabalho na metade do tempo. [s.l.] Leya, 2016.
 
-Primeiros Socorros para Fraturas, Mayo Clinic, 2024. Disponivel em: https://www.mayoclinic.org/first-aid/first-aid-broken-bone/basics/art-20056641 Acesso em 19 de maio de 2024.
+
 
 
 
