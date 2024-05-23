@@ -6,6 +6,7 @@
     <title>Escola Segura</title>
     <link rel="stylesheet" href="../paginaHome/style.css">
     <link rel="stylesheet" href="../paginaCursos/styleCursos.css">
+    <script defer src="scriptTutoriais.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
@@ -38,21 +39,23 @@
           <form class="pesquisa">
             <div class="search">
                 <span class="search-icon material-symbols-outlined">search</span>
-                <input id="searchbar" type="search" placeholder="pesquisar">
+                <input id="searchbar" type="search" placeholder="pesquisar" onkeyup="search()">
 
             </div>
           </form>
           <section class="cards">
-            <div>
+            <div class="nomeCurso">
                 
                 <img src="..//paginaHome/3.png" alt="foto criança engasgada">
                 <a href="..//paginaTutorialEngasgos/tutorialengasgo.html" ><p>Tutorial: como socorrer vítima de engasgo</p></a>
             </div>
-            <div>
+
+            <div class="nomeCurso">
                 <img src="..//paginaHome/2.jpg" alt="como socorrer vítima de queimadura">
                 <a href="..//paginaTutorialQueimadura/tutorialQueimadura.html" > <p>Tutorial: como socorrer vítima de queimadura</p></a>
             </div>
-            <div>
+
+            <div class="nomeCurso">
                 <img src="pernaQuebrada.jpg" alt="como socorrer vítima de fratura">
                 <a href="..//paginaTutorialFratura/tutorialFratura.html" > <p>Tutorial: como socorrer vítima de fratura</p></a>
             </div>
@@ -82,25 +85,7 @@
                 </div>
             </div>
         </footer>
-
-        <script>
-            var logado = false;
-
-            //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
-            if (localStorage.getItem("acesso") == "true") {
-                logado = true;
-                
-                var element = document.getElementById('btnLogin');
-                element.parentElement.removeChild(element);
-            };
-
-            //Verifica se logado não é verdadeiro, se sim remove link para Perfil e permanece Login
-            if (logado != true){
-                
-                var element = document.getElementById('btnPerfil');
-                element.parentElement.removeChild(element);
-            }
-        </script>
         
+
     </body>
 </html>
