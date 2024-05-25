@@ -11,8 +11,7 @@ O acesso a tela de Login poderá ser feito através do link “Login” no menu.
 
 Exemplo da tela de Login: 
 
-
-print------------------
+![login novo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/265daf46-397e-49f7-92f4-2a5f536e24f6)
 
 
 
@@ -36,6 +35,7 @@ RF-002: A aplicação deve permitir que o usuário faça login na sua conta.
  - [login.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/src/paginaLogin/login.html)
 
 
+
 #### Instruções de acesso
 
 1. Abra um navegador de Internet 
@@ -53,9 +53,7 @@ O acesso a tela de Cadastro poderá ser feito através do link “Cadastre-se”
 
 Exemplo da tela de Cadastro: 
 
-
-print-------------------
-
+![cadastrnovo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/670d5cd7-145d-4591-acb8-30adde188c55)
 
 
 #### Requisito atendido
@@ -98,9 +96,7 @@ A funcionalidade pesquisa está disponível na páginas de contato. O acesso a t
 
 Exemplo de filtro/pesquisa na tela Contato: 
 
-
-print-------------------
-
+![tela pesquisa contatos de emergencia ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/af040703-b003-4c19-8dcf-4ee4b92cb876)
 
 
 #### Requisito atendido
@@ -145,8 +141,7 @@ A funcionalidade pesquisa está disponível na páginas de tutoriais. O acesso a
 
 Exemplo de filtro/pesquisa na tela Tutoriais: 
 
-
-print-------------------
+![tutorial novo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/53ace572-d5f9-45ca-b5b1-1a2ad1b15338)
 
 
 
@@ -192,8 +187,9 @@ A funcionalidade gerar certificado está disponível na páginas de perfil. O ac
 
 Exemplo de tela gerar certificado: 
 
+![tela de cursos realizados ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/b79d3346-4bf1-4007-8898-1b2f1153ccdb)
 
-print-------------------
+![gerar certificado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/0acfd843-28af-4ea2-9a7e-d3c62bf4d5ce)
 
 
 
@@ -239,9 +235,7 @@ O acesso a tela de Perfil poderá ser feito através do link “Perfil” no men
 
 Exemplo de tela Perfil: 
 
-
-print-------------------
-
+![tela de cursos realizados ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/3a44141a-bce5-443b-b39b-c773f2b7bc83)
 
 
 #### Requisito atendido
@@ -282,8 +276,7 @@ O acesso a tela de Cursos poderá ser feito através do link “Cursos” no men
 
 Exemplo de tela Cursos: 
 
-
-print-------------------
+![tela cursos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/815bfc35-739e-4dd8-980b-49ed754f345e)
 
 
 
