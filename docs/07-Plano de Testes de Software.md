@@ -85,7 +85,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Verificar o loggin de usuarios Home</td>
+  <td>CT-03: Verificar o login de usuarios Home</td>
   <td>
    <ul>
    
@@ -109,3 +109,69 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
   <td>Rafael</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-07: Verificar detalhes dos cursos</td>
+  <td>
+   <ul>
+    <li>RF-008:	A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.</li>
+    <li>RF-010:	A aplicação deve permitir ao usuário visualizar as informações sobre o curso.</li>
+   </ul>
+  </td>
+  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página cursos</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página cursos.</li>
+    <li>Visualizar as informações referentes aos cursos disponíveis na página.</li>
+   </ol>
+   </td>
+  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-08: Verificar funcionalidade cursos realizados</td>
+  <td>
+   <ul>
+    <li>RF-009:	A aplicação de permitir que o usuário visualize os cursos já realizados na página perfil.</li>
+   </ul>
+  </td>
+  <td>Verificar se a página Perfil está apresentando as informações sobre os cursos realizados pelo usuário</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página Perfil</li>
+    <li>Visualizar as informações referentes aos cursos realizados</li>
+   </ol>
+   </td>
+  <td>As informações de cursos realizados pelo usuário devem estar disponiveis na página Perfil.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
+
+
