@@ -47,7 +47,7 @@ RF-002: A aplicação deve permitir que o usuário faça login na sua conta.
 
 ### RF-001 - Tela Cadastro 
 
-Responsável: Rafael
+Responsável: Lucas
 
 O acesso a tela de Cadastro poderá ser feito através do link “Cadastre-se” diponivel no final do formulario da tela login. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -90,7 +90,7 @@ RF-001: A aplicação deve permitir que o usuário cadastrar uma conta.
 
 ### RF-003 Filtro/Pesquisa contato
 
-Responsável: Luiza
+Responsável: Nizia
 
 A funcionalidade pesquisa está disponível na páginas de contato. O acesso a tela de contato poderá ser feito através do link “contato” no menu. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -135,7 +135,7 @@ RF-003: A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para p
 
 ### RF-005 Filtro/Pesquisa tutoriais
 
-Responsável: Luiza
+Responsável: Julia
 
 A funcionalidade pesquisa está disponível na páginas de tutoriais. O acesso a tela de tutoriais poderá ser feito através do link “tutoriais” no menu. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -181,7 +181,7 @@ RF-005: A aplicação deve oferecer uma funcionalidade de pesquisa para permitir
 
 ### RF-006 Gerar Certificado
 
-Responsável: Luiza
+Responsável: Lucas
 
 A funcionalidade gerar certificado está disponível na páginas de perfil. O acesso a tela de perfil poderá ser feito através do link “Perfil” no menu. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -229,7 +229,7 @@ RF-006: A aplicação deve permitir que o usuário gere seu certificado de concl
 
 ### RF-009 Tela Perfil
 
-Responsável: Lucas
+Responsável: Gabi
 
 O acesso a tela de Perfil poderá ser feito através do link “Perfil” no menu. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -270,7 +270,7 @@ RF-009: A aplicação de permitir que o usuário visualize os cursos já realiza
 
 ### RF-008 RF-010 Tela Cursos
 
-Responsável: Lucas
+Responsável: Julia
 
 O acesso a tela de Cursos poderá ser feito através do link “Cursos” no menu. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
