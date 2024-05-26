@@ -1,5 +1,5 @@
 main {
-    height: 800px;
+    height: 100%;
 }
 
 h1 {
@@ -94,5 +94,64 @@ h1 {
     -moz-box-shadow: -2px 2px 15px 0px rgba(0,0,0,0.5);
     background-color: #97D7C6;
     transition: 0.8s all;
+    padding: 1px;
 }
 
+.descricao {
+    font-family: 'Nunito', Courier, monospace;
+    font-weight: 100;
+    margin: 6px;
+    margin-left: 40px;
+    color: #494949;
+
+}
+
+.descricaoTempo {
+    font-family: 'Nunito', Courier, monospace;
+    margin: 0px;
+    padding: 10px;
+    text-align: left;
+    color: #494949;
+    padding-left: 2px;
+
+}
+
+.sobre {
+    font-family: 'Nunito', Courier, monospace;
+    font-weight: 500;
+    padding: 10px;
+    text-align: left;
+    margin: 0;
+}
+
+.boxdescricao {
+    background-color: #f6f6f6;
+    border-radius: 6px;
+}
+
+.objetivo {
+    font-family: 'Nunito', Courier, monospace;
+    padding: 12px;
+    color: #494949;
+    margin: 0;
+    font-weight: 100;
+}
+
+.imgInfo {
+    width: 20px;
+    margin-bottom: -4px;
+    margin-right: 2px;
+}
+
+.imgItem {
+    width: 8px;
+    padding: 4px;
+    margin-bottom: -4px;
+}
+
+.imgTempo {
+    margin: 0;
+    width: 30px;
+    padding: 4px;
+    margin-bottom: -13px;
+}
