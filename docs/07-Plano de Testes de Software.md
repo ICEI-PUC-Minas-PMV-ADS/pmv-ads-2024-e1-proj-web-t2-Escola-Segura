@@ -110,6 +110,96 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
  </tr>
 </table>
 
+<table>
+    <tr>
+     <th>Caso de teste</th>
+     <th>Requisitos associados</th>
+     <th>Objetivo do teste</th>
+     <th>Passos</th>
+     <th>Critérios de êxito</th>
+     <th>Responsável</th>
+    </tr>
+    <tr>
+     <td>CT-04: Verificar o funcionamento da pesquisa de contatos</td>
+     <td>
+      <ul>
+       <li>RF-003: A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia.</li>
+      </ul>
+     </td>
+     <td>Verificar se a pesquisa de contatos emergenciais está funcionando corretamente.</td>
+     <td>
+      <ol>
+       <li>Acessar o navegador.</li>
+       <li>Informar o endereço do site.</li>
+       <li>Visualizar a página Home.</li>
+       <li>Clicar no link contatos.</li>
+      </ol>
+      </td>
+     <td>A pagina deve oferecer busca de contatos emergenciais.</td>
+     <td>Nizia</td>
+    </tr>
+   </table>
+
+   <table>
+    <tr>
+     <th>Caso de teste</th>
+     <th>Requisitos associados</th>
+     <th>Objetivo do teste</th>
+     <th>Passos</th>
+     <th>Critérios de êxito</th>
+     <th>Responsável</th>
+    </tr>
+    <tr>
+     <td>CT-05: Verificar o funcionamento da pesquisa de tutoriais</td>
+     <td>
+      <ul>
+       <li>RF-005: A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar tutoriais específicos.</li>
+      </ul>
+     </td>
+     <td>Verificar se a pesquisa de tutoriais está funcionando corretamente.</td>
+     <td>
+      <ol>
+       <li>Acessar o navegador.</li>
+       <li>Informar o endereço do site.</li>
+       <li>Visualizar a página Home.</li>
+       <li>Clicar no link tutoriais.</li>
+      </ol>
+      </td>
+     <td>A pagina deve oferecer busca de tutoriais.</td>
+     <td>Luiza Gabriela</td>
+    </tr>
+   </table>
+
+   <table>
+    <tr>
+     <th>Caso de teste</th>
+     <th>Requisitos associados</th>
+     <th>Objetivo do teste</th>
+     <th>Passos</th>
+     <th>Critérios de êxito</th>
+     <th>Responsável</th>
+    </tr>
+    <tr>
+     <td>CT-06: Verificar o funcionamento do gerador de certificado</td>
+     <td>
+      <ul>
+       <li>RF-006: A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso.</li>
+      </ul>
+     </td>
+     <td>Verificar se o gerador de certificado está funcionando corretamente.</td>
+     <td>
+      <ol>
+       <li>Acessar o navegador.</li>
+       <li>Informar o endereço do site.</li>
+       <li>Visualizar a página Home.</li>
+       <li>Clicar no link perfil.</li>
+       <li>Clicar em gerar certificado.</li>
+      </ol>
+      </td>
+     <td>A página deve oferecer emição de certificado.</td>
+     <td>Luiza Gabriela</td>
+    </tr>
+   </table>
 
 <table>
  <tr>
