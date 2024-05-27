@@ -4,7 +4,8 @@
 
 Os testes funcionais realizados na aplicação web são descritos a seguir.
 
-CT-02: Verificar o cadastro de usuários.
+<hr>
+2. CT-02: Verificar o cadastro de usuários.
 Responsável: Rafael.
 
 Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.
@@ -24,8 +25,8 @@ Informações armazenadas no LocalStorage após usuário se cadastrar.
 
 ![Captura de tela 2024-05-27 194135](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/10a8d179-a3c2-4ca6-b2f4-b644330ac0d4)
 
-
-CT-03: Verificar o login de usuários.
+<hr>
+3. CT-03: Verificar o login de usuários.
 Responsável: Lucas.
 
 Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.
@@ -42,8 +43,8 @@ Informações armazenadas no LocalStorage do usuário logado.
 
 ![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
 
-
-CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
+<hr>
+7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
 
 Usuario acessa o menu cursos na tela home
 
