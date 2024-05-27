@@ -43,9 +43,16 @@ Informações armazenadas no LocalStorage do usuário logado.
 ![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
 
 
+CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
+
+Usuario acessa o menu cursos na tela home
+
+![Captura de tela 2024-05-27 195813](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/505c7b56-938c-4369-804e-39fff15e3368)
+
+Na tela cursos o usuario consegue visualizar as informações principais de cada curso em formato resumo.
 
 
-
+![Captura de tela 2024-05-27 195253](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/8b9eb92c-d7aa-4b75-8fa5-2b31432b55da)
 
 
 
