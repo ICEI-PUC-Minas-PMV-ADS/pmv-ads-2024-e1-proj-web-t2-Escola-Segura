@@ -218,7 +218,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
     <li>RF-010:	A aplicação deve permitir ao usuário visualizar as informações sobre o curso.</li>
    </ul>
   </td>
-  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página cursos</td>
+  <td>Verificar se todas as informações referentes aos cursos estão disponíveis na página cursos</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -228,7 +228,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
     <li>Visualizar as informações referentes aos cursos disponíveis na página.</li>
    </ol>
    </td>
-  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
+  <td>Todas as informações, incluindo imagens das capas, referentes aos cursos estão disponíveis na página Cursos.</td>
   <td>Lucas</td>
  </tr>
 </table>
