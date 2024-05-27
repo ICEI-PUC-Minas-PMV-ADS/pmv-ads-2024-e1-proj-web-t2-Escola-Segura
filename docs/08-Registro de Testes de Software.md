@@ -17,6 +17,11 @@ Se as informações de usuário forem válidas, o login será bem sucedido e red
 
 ![Captura de tela 2024-05-27 182403](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/184bc440-fc52-45a7-9b3f-c9027d929a57)
 
+Informações armazenadas no LocalStorage do usuário logado.
+
+![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
+
+
 
 
 
