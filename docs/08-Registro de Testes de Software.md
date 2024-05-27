@@ -2,11 +2,28 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Os testes funcionais realizados na aplicação web são descritos a seguir.
+
+CT-02: Verificar o login de usuários.
+Responsável: Rafael.
+
+Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.
+
+![Captura de tela 2024-05-27 182209](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/4f92f6f1-cdc5-4bbd-801f-bc3c918cedf8)
+
+Se as informações de usuário forem válidas, o login será bem sucedido e redirecionado para pagina de Perfil.
+
+![tela de login com email e senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/3302d7db-fd83-4570-b031-bb0f059d419f)
+
+![Captura de tela 2024-05-27 182403](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/184bc440-fc52-45a7-9b3f-c9027d929a57)
+
+
+
+
+
+
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
