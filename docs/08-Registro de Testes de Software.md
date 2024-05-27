@@ -11,7 +11,7 @@ Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário
 
 ![Captura de tela 2024-05-27 182209](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/4f92f6f1-cdc5-4bbd-801f-bc3c918cedf8)
 
-Se as informações de usuário forem válidas, o login será bem sucedido e redirecionado para pagina de Perfil.
+Se as informações de usuário forem válidas, o login será bem sucedido e redirecionado para pagina home e link pagina de perfil é adicionado no menu.
 
 ![tela de login com email e senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/3302d7db-fd83-4570-b031-bb0f059d419f)
 
