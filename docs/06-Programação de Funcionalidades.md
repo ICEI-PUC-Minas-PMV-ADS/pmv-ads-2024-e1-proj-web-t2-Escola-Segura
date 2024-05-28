@@ -262,7 +262,7 @@ RF-009: A aplicação de permitir que o usuário visualize os cursos já realiza
 
 1. Abra um navegador de Internet 
 
-2. Informe a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/src/paginaHome/index.htmll
+2. Informe a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/src/paginaHome/index.html
 
 3. Clicar em “Perfil” no menu canto superior a direita da tela, para acessar a página de Perfil.
 
