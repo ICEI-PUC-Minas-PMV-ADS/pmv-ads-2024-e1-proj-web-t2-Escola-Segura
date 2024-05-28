@@ -1,0 +1,113 @@
+main {
+    background-color: #e0e0e0;
+  }
+  
+  
+  
+  .sidebar {
+      height: 65%;
+      width: 200px;
+      margin: 10px;
+      position: fixed;
+      z-index: 1;
+      background-color: #97D7C6;
+      overflow-x: hidden;
+      padding-top: 10px;
+      border: 1px solid #fff;
+     border-radius: 0 120px 0 120px;
+    -moz-border-radius: 0 120px 0 120px;
+    -webkit-border-radius: 0 120px 0 120px;
+  }
+  
+  .sidebar a {
+      padding: 6px 8px 6px 16px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      color:#446497;
+      display: block;
+      line-height: 1.0;
+    }
+  
+    .sideTitulo:hover {
+      color: #DEEC74;
+    }
+
+    .aulas {
+        text-align: left;
+        color:#31476c;
+        padding: 6px 8px 6px 16px;
+      }
+      .tituloCurso {
+        background-color: #fff;
+        margin-left: 250px;
+        height: 20%;
+        max-width: 950px;
+        padding: 15px;
+        margin-top: 20px;
+        border-radius: 75px;
+      }
+    
+      h1 {
+        text-align: center;
+        color:#31476c;
+        text-transform: uppercase;
+      }
+    
+      .titulo1 {
+        text-align: center;
+        color: #31476c;
+      }
+    
+      .titulo1:hover {
+        color: #446497;
+      }
+
+      h2{
+        text-transform: uppercase;
+        background-color: #DEEC74;
+        padding: 10px;
+        margin-top: 15px;
+        max-width: 610px;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px
+
+      }
+      #domestico {
+        background-color: #fff;
+          margin-left: 250px;
+          height: 20%;
+          max-width: 950px;
+          padding: 15px;
+          margin-top: 15px;
+          border: 1px solid #59A7A7;
+          border-radius: 25px;
+          line-height: 30px;
+          letter-spacing: inherit;
+      }
+      #escolar {
+        background-color: #fff;
+          margin-left: 250px;
+          height: 20%;
+          max-width: 950px;
+          padding: 15px;
+          margin-top: 15px;
+          border: 1px solid #59A7A7;
+          border-radius: 25px;
+          line-height: 30px;
+          letter-spacing: inherit;
+      }
+      
+      #prevencao {
+        background-color: #fff;
+        margin-left: 250px;
+        height: 20%;
+        max-width: 950px;
+        padding: 15px;
+        margin-top: 15px;
+        border: 1px solid #59A7A7;
+        border-radius: 25px;
+        line-height: 30px;
+        letter-spacing: inherit;
+    }
+    
