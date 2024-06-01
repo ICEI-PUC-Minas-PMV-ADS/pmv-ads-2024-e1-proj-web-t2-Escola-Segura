@@ -7,7 +7,7 @@
     <title>Escola Segura</title>
     <link rel="stylesheet" href="../paginaHome/style.css">
     <link rel="stylesheet" href="styleCursoM2.css">
-    <script defer src="./scriptCursos.js"></script>
+    <script defer src="scriptCursoM2.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
@@ -42,7 +42,7 @@
             <a href="#sangramento" class="sideTitulo">+ SANGRAMENTO NASAL</a><br>
         </div>
         <div class="tituloCurso">
-            <h1 class="titulo1">CURSO DE PRIMEIROS SOCORROS – MÓDULO 2</h1>
+            <h1 id="titulo1">CURSO DE PRIMEIROS SOCORROS – MÓDULO 2</h1>
         </div>
         <div class="intro">
             <h1>Introdução</h1>
@@ -285,7 +285,8 @@
         </div>
         <div class="conclusao">
             <a href="../paginaCursos/cursos.html" class="button1">Cursos</a>
-            <a href="../paginaCertificado/certificado.html" class="button2">Certificado</a>
+            <a href="#" id="concluir" class="button2" onclick="concluir()">Concluir</a>
+            <a href="../paginaPerfil/perfil.html" id="concluidoPerfil" class="button2">Perfil</a>
         </div>
     </main>
 </body>
