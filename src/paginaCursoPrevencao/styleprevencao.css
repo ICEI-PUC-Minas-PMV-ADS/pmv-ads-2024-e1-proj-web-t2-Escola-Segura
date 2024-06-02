@@ -111,3 +111,38 @@ main {
         letter-spacing: inherit;
     }
     
+    .conclusao {
+      text-align: center;
+      margin-left: 250px;
+      height: 20%;
+      max-width: 950px;
+      padding: 15px;
+      margin-top: 15px;
+      border-radius: 25px;
+      line-height: 30px;
+      letter-spacing: inherit;
+    }
+    
+    .button1,
+    .button2 {
+      background: linear-gradient(to bottom right, #97D7C6, #59A7A7);
+      margin: auto;
+      border: 0;
+      border-radius: 25px;
+      text-align: center;
+      color: #446497;
+      cursor: pointer;
+      display: inline-flex;
+      font-family: 'Nunito', Courier, monospace;
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 2.5;
+      outline: transparent;
+      padding: 0 2rem;
+      white-space: nowrap;
+    }
+    
+    .button1:hover,
+    .button2:hover {
+      color: #31476c;
+    }

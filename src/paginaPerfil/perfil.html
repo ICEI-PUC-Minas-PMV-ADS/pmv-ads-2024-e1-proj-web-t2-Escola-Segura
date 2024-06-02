@@ -6,6 +6,7 @@
     <title>Escola Segura</title>
     <link rel="stylesheet" href="../paginaHome/style.css">
     <link rel="stylesheet" href="stylePerfil.css">
+    <script defer src="scriptPerfil.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
@@ -51,32 +52,32 @@
                     <tr>
                         <td>1</td>
                         <td id="tdCurso1"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td><a href="../paginaCertificado/certificado.html"><img id="td1"class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>2</td>
                         <td  id="tdCurso2"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td><a href="../paginaCertificado/certificado.html"><img id="td2"class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>3</td>
                         <td id="tdCurso3"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td><a href="../paginaCertificado/certificado.html"><img id="td3"class="salvaricon" src="salvaricon.png"></a></td>
                     </tr>
                     <tr>
                         <td>4</td>
                         <td id="tdCurso4"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>5</td>
                         <td id="tdCurso5"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>6</td>
                         <td id="tdCurso6"></td>
-                        <td><a href="../paginaCertificado/certificado.html"><img class="salvaricon" src="salvaricon.png"></a></td>
+                        <td></td>
                     </tr>
                 </tbody>
               </table>
@@ -108,43 +109,8 @@
         </footer>
 
         <script>
+
             var logado = false;
-
-            var dadosUsuario = [];
-
-            dadosUsuario = JSON.parse(localStorage.getItem("dadosUsuario"));
-            
-            for (let i = 0; i < dadosUsuario.length; i++) {
-            const elemento = dadosUsuario[i];
-            
-            tempUsuario = {
-                nome: elemento.nomeUsuario,
-                cursos: elemento.cursoRealizado
-            },
-
-            tempCursos = {
-                curso1: "Curso - Primeiros Socorros - Módulo 1",
-                curso2: "Curso - Primeiros Socorros - Módulo 2",
-                curso3: "Curso - Primeiros Socorros - Prevenção",
-                curso4: "Tutorial - Como Socorrer Vítima de Engasgo",
-                curso5: "Tutorial - Como Socorrer Vítima de Queimadura",
-                curso6: "Tutorial - Como Socorrer Vítima de Fratura"
-
-            }
-
-            var nomeTitulo = tempUsuario.nome;
-
-            document.getElementById('nomeTitulo').innerHTML = (" " + nomeTitulo);
-
-            document.getElementById('tdCurso1').innerHTML = (tempCursos.curso1);
-            document.getElementById('tdCurso2').innerHTML = (tempCursos.curso2);
-            document.getElementById('tdCurso3').innerHTML = (tempCursos.curso3);
-            document.getElementById('tdCurso4').innerHTML = (tempCursos.curso4);
-            document.getElementById('tdCurso5').innerHTML = (tempCursos.curso5);
-            document.getElementById('tdCurso6').innerHTML = (tempCursos.curso6);
-        }
-
-            
 
             //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
             if (localStorage.getItem("acesso") == "true") {
