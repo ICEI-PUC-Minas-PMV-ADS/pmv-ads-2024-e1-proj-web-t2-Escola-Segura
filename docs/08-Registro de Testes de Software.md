@@ -44,6 +44,20 @@ Informações armazenadas no LocalStorage do usuário logado.
 ![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
 
 <hr>
+4. CT-04: Verificar o funcionamento da pesquisa de contatos
+
+Usuário acessa a pagina de contatos
+
+![WhatsApp Image 2024-06-02 at 19 04 26_36d6e5eb](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/67c2499f-23fd-4eb0-898f-e176c99c4705)
+
+Insere o nome do contato no qual deseja infomações.
+
+![WhatsApp Image 2024-06-02 at 19 04 46_e2afbf6e](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/606d3b5f-1305-41fc-b05d-1c60555a0968)
+
+E recebe as informações de acordo com o que foi pesquisado.
+
+![WhatsApp Image 2024-06-02 at 19 05 16_8e844149](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/b17ea368-d360-43a6-9ef0-df0b38cd84d1)
+
 7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
 
 Usuario acessa o menu cursos na tela home
