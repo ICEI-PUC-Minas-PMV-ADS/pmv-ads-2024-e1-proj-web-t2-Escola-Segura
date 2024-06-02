@@ -258,6 +258,24 @@
                     </div>
                 </div>
             </footer>
+            <script>
+                var logado = false;
 
-    </body>
+                //Verifica se acesso em localStorage é verdadeiro, se sim remove link para Login e permanece Perfil
+                if (localStorage.getItem("acesso") == "true") {
+                    logado = true;
+
+                    var element = document.getElementById('btnLogin');
+                    element.parentElement.removeChild(element);
+                };
+
+                //Verifica se logado não é verdadeiro, se sim exibe mensagem e redireciona para pagina de Login
+                if (logado != true) {
+
+                    alert("Usuario não autenticado!");
+                    window.location.href = "../paginaLogin/login.html";
+                }
+            </script>
+            
+            </body>
     </html>
