@@ -58,6 +58,18 @@ E recebe as informações de acordo com o que foi pesquisado.
 
 ![WhatsApp Image 2024-06-02 at 19 05 16_8e844149](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/b17ea368-d360-43a6-9ef0-df0b38cd84d1)
 
+5. CT-05: Pesquisar turoriais. Responsável: Luiza Gabriela.
+
+Usúario acessa a página de tutoriais
+
+![teste funcionalidade (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/a37c8a2f-3329-4461-b14b-9dd30c41bd0a)
+
+Insere o nome do tutorial que deseja assistir
+
+![teste funcionalidade (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/4c640c0e-1c18-4037-8ae6-6a3a2fa5c155)
+
+e recebe as informações do tutorial que deseja assistir.
+
 7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
 
 Usuario acessa o menu cursos na tela home
