@@ -70,7 +70,19 @@ Insere o nome do tutorial que deseja assistir
 
 e recebe as informações do tutorial que deseja assistir.
 
-7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
+6. CT-06: Verificar funcionalidade de gerar certificado. Responsável: Luiza Gabriela.
+
+Usúario acessar o perfil
+
+![Captura de tela 2024-06-03 193806](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/9b72e684-78f0-46f8-af25-0e4e1818e22a)
+
+clicar em certificados do curso concluído
+
+![Captura de tela 2024-06-03 193822](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/8ebb351c-a6c6-49b9-9f1d-9fea286f9fd3)
+
+o certificado é gerado e disponibilizado para baixar e imprimir.
+
+8. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
 
 Usuario acessa o menu cursos na tela home
 
