@@ -62,11 +62,11 @@ E recebe as informações de acordo com o que foi pesquisado.
 
 Usúario acessa a página de tutoriais
 
-![teste funcionalidade (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/a37c8a2f-3329-4461-b14b-9dd30c41bd0a)
+![Captura de tela 2024-06-03 193537](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/95ba6003-1d6a-4eb9-9e80-b3c60a88d38b)
 
 Insere o nome do tutorial que deseja assistir
 
-![teste funcionalidade (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/4c640c0e-1c18-4037-8ae6-6a3a2fa5c155)
+![Captura de tela 2024-06-03 193550](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/3d977c4a-ba62-415d-bed0-b656f8923885)
 
 e recebe as informações do tutorial que deseja assistir.
 
