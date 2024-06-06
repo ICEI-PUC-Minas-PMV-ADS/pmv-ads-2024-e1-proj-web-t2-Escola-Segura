@@ -53,4 +53,23 @@
         }
 
     }
-    
+          
+
+        //Verifica qual botao imprimir certificado da tabela foi pressionado e armazena.
+        var el = document.getElementById('linha1');
+        el.addEventListener('click', function (e) {
+            localStorage.setItem("imprimir", e.target.id);
+
+        });
+
+        var el = document.getElementById('linha2');
+        el.addEventListener('click', function (e) {
+            localStorage.setItem("imprimir", e.target.id);
+
+        });
+
+        var el = document.getElementById('linha3');
+        el.addEventListener('click', function (e) {
+            localStorage.setItem("imprimir", e.target.id);
+
+        });
