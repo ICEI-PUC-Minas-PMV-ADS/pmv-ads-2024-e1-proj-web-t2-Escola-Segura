@@ -44,21 +44,8 @@ Informações armazenadas no LocalStorage do usuário logado.
 ![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
 
 <hr>
-4. CT-04: Verificar o funcionamento da pesquisa de contatos
 
-Usuário acessa a pagina de contatos
-
-![WhatsApp Image 2024-06-02 at 19 04 26_36d6e5eb](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/67c2499f-23fd-4eb0-898f-e176c99c4705)
-
-Insere o nome do contato no qual deseja infomações.
-
-![WhatsApp Image 2024-06-02 at 19 04 46_e2afbf6e](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/606d3b5f-1305-41fc-b05d-1c60555a0968)
-
-E recebe as informações de acordo com o que foi pesquisado.
-
-![WhatsApp Image 2024-06-02 at 19 05 16_8e844149](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/b17ea368-d360-43a6-9ef0-df0b38cd84d1)
-
-5. CT-05: Pesquisar turoriais. Responsável: Luiza Gabriela.
+5. CT-05: Pesquisar tutoriais. Responsável: Luiza Gabriela.
 
 Usúario acessa a página de tutoriais
 
@@ -92,6 +79,16 @@ Na tela cursos o usuario consegue visualizar as informações principais de cada
 
 
 ![Captura de tela 2024-05-27 195253](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/8b9eb92c-d7aa-4b75-8fa5-2b31432b55da)
+
+9. CT-08: Verificar funcionalidade cursos realizados
+Responsável: Lucas
+
+Usúario acessa a tela Perfil após ter concluido o curso
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/255ffd1f-2c87-4b98-98bb-a30ff028aa27
+
+E consegue visualizar as informações e baixar o certificado do curso desejado.
 
 
 
