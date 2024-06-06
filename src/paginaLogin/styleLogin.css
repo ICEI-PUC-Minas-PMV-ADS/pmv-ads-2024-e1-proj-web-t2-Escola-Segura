@@ -18,6 +18,7 @@ main {
 }
 
 .formCadastro {
+    font-family: 'Nunito', Courier, monospace;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
@@ -33,6 +34,7 @@ main {
 }
 
 input {
+    font-family: 'Nunito', Courier, monospace;
     margin: 10px auto;
     width: 250px;
     height: 40px;
@@ -47,12 +49,13 @@ input {
 }
 
 #btnLogin {
+    background: linear-gradient(to bottom right, #97D7C6, #59A7A7);
+    font-family: 'Nunito', Courier, monospace;
     width: 250px;
     height: 40px;
     border-radius: 4px;
     border: none;
     margin: 8px;
-    background-color: #59A7A7;
     color: white;
     margin-bottom: 20px;
 }
