@@ -44,7 +44,8 @@
 }
 
 #generatePdf {
-    background-color: #0aa7a7;
+    background: linear-gradient(to bottom right, #97D7C6, #59A7A7);
+    font-family: 'Nunito', Courier, monospace;
     list-style: none;
     margin: 4px;
     padding: 3px;
@@ -56,9 +57,9 @@
 }
 
 #generatePdf:hover{
-    background-color: #54c2a1;
+    background-color: #97D7C6;
     color: #024242;
-    border: 2px solid #2b4747;
+    border: 2px solid #0aa7a7;
     transition: 0.6s all;
 }
 
