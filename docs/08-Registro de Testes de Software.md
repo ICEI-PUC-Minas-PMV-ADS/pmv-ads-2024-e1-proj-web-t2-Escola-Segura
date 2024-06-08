@@ -27,21 +27,19 @@ Informações armazenadas no LocalStorage após usuário se cadastrar.
 
 <hr>
 3. CT-03: Verificar o login de usuários.
+<br><br>
 Responsável: Lucas.
+<br><br>
+No exemplo abaixo o usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado, o que resulta na mensagem de erro.
+<br><br>
+Quando corrigido e preencido as informações de usuário válidas, o login será bem sucedido e o usuárui é redirecionado para página Home onde é adicionado no Menu superfior o link para pagina de Perfil.
+<br><br>
+A Informação de usuário logado é armazenada em localStorage.
+<br><br>
 
-Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.
 
-![Captura de tela 2024-05-27 182209](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/4f92f6f1-cdc5-4bbd-801f-bc3c918cedf8)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/155129810/d086ebc1-75ee-4305-90a3-b4dceabc2d75
 
-Se as informações de usuário forem válidas, o login será bem sucedido e redirecionado para pagina home e link pagina de perfil é adicionado no menu.
-
-![tela de login com email e senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/3302d7db-fd83-4570-b031-bb0f059d419f)
-
-![Captura de tela 2024-05-27 182403](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/184bc440-fc52-45a7-9b3f-c9027d929a57)
-
-Informações armazenadas no LocalStorage do usuário logado.
-
-![Captura de tela 2024-05-27 190425](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1862e2d2-5928-4e49-a38a-bb2c8fdb7553)
 
 <hr>
 
