@@ -264,4 +264,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-09: Verificar funcionalidade cursos realizados</td>
+  <td>
+   <ul>
+    <li>RF-004: A aplicação deve oferecer um catálogo de cursos.</li>
+   </ul>
+  </td>
+  <td>Verificar a página Cursos está apresentando o cursos disponiveis</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página Cursos</li>
+    <li>Visualizar os cursos disponiveis</li>
+   </ol>
+   </td>
+  <td>Todos os cursos devem ser apresentados na pagina de cursos.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
+
 
