@@ -18,6 +18,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Seg
 Responsável: Rafael.
 <br><br>
 Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.
+<br><br>
 
 ![Captura de tela 2024-05-27 193757](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1cfd7bd4-b107-4803-899d-0fa83e5223eb)
 
@@ -48,12 +49,25 @@ A Informação de usuário logado é armazenada em localStorage.
 
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/155129810/d086ebc1-75ee-4305-90a3-b4dceabc2d75
+<hr>
+4. CT-04: Verificar o funcionamento da pesquisa de contatos.
+<br><br>
+Responsável: Luiza Gabriela.
+<br><br>
+O usuário acessa a página de contatos emergenciais e pesquisa o contato desejado.
 
+![WhatsApp Image 2024-06-09 at 14 49 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/143669562/36cf0e2f-2cba-46eb-a8a9-74468a286ed5)
+
+E o sistema responde a pesquisa de acordo com o que o usuário necessita.
+
+![WhatsApp Image 2024-06-09 at 14 49 02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/143669562/388fb24b-fa5e-4049-97eb-19266ae395f9)
 
 <hr>
 
-5. CT-05: Pesquisar tutoriais. Responsável: Luiza Gabriela.
-
+5. CT-05: Pesquisar tutoriais.
+<br><br>
+Responsável: Luiza Gabriela.
+<br><br>
 Usúario acessa a página de tutoriais
 
 ![Captura de tela 2024-06-03 193537](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/95ba6003-1d6a-4eb9-9e80-b3c60a88d38b)
@@ -67,7 +81,7 @@ e recebe as informações do tutorial que deseja assistir.
 6. CT-06: Verificar funcionalidade de gerar certificado.
 <br><br>
 Responsável: Julia.
-<br>
+<br><br>
 Usúario acessar o perfil
 
 ![Captura de tela 2024-06-03 193806](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/9b72e684-78f0-46f8-af25-0e4e1818e22a)
@@ -80,8 +94,10 @@ o certificado é gerado e disponibilizado para baixar e imprimir.
 
 <hr>
 
-7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
-
+7. CT-07: Verificar detalhes dos cursos.
+<br><br>
+Responsável: Rafael.
+<br><br>
 Usuario acessa o menu cursos na tela home
 
 ![Captura de tela 2024-05-27 195813](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/505c7b56-938c-4369-804e-39fff15e3368)
@@ -94,20 +110,23 @@ Na tela cursos o usuario consegue visualizar as informações principais de cada
 <br>
 <hr>
 
-8. CT-08: Verificar funcionalidade cursos realizados
+8. CT-08: Verificar funcionalidade cursos realizados.
+<br><br>
 Responsável: Nizia
-
+<br><br>
 Usúario acessa a tela Perfil após ter concluido o curso
 
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/255ffd1f-2c87-4b98-98bb-a30ff028aa27
 
 E consegue visualizar as informações e baixar o certificado do curso desejado.
+
 <hr>
 <br><br>
+
 9. CT-09: Verificar página cursos.
 <br><br>
-Responsável: Lucas
+Responsável: Lucas.
 <br><br>
 Usuário acessa página cursos onde visualiza os cursos disponiveis.
 <br><br>
@@ -117,9 +136,10 @@ Usuário acessa página cursos onde visualiza os cursos disponiveis.
 <br>
 <hr>
 <br><br>
+
 10. CT-10: Verificar página contatos.
 <br><br>
-Responsável: Lucas
+Responsável: Lucas.
 <br><br>
 Usuário acessa página de contatos onde visualiza a lista de contatos emergenciais disponiveis.
 <br><br>
