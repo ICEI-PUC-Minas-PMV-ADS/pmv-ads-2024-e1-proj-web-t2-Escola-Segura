@@ -79,7 +79,7 @@ Na tela cursos o usuario consegue visualizar as informações principais de cada
 ![Captura de tela 2024-05-27 195253](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/8b9eb92c-d7aa-4b75-8fa5-2b31432b55da)
 
 9. CT-08: Verificar funcionalidade cursos realizados
-Responsável: Lucas
+Responsável: Nizia
 
 Usúario acessa a tela Perfil após ter concluido o curso
 
@@ -87,6 +87,15 @@ Usúario acessa a tela Perfil após ter concluido o curso
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164581054/255ffd1f-2c87-4b98-98bb-a30ff028aa27
 
 E consegue visualizar as informações e baixar o certificado do curso desejado.
+<br><br>
+3. CT-09: Verificar página cursos.
+<br><br>
+Responsável: Lucas
+<br><br>
+Usuário acessa página cursos onde visualiza os cursos disponiveis
+<br><br>
+
+![Print_tela_pagina_cursos2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/155129810/188a1f0c-2df4-4cce-a603-46a28594af01)
 
 
 
