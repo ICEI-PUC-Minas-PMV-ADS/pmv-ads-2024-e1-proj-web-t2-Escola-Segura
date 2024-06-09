@@ -52,18 +52,18 @@ Funcionários da área de educação, seja de educação pública ou privada.
 ### Requisitos Funcionais
 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário cadastrar uma conta. | ALTA | 
-|RF-002| A aplicação deve permitir que o usuário faça login na sua conta.  | ALTA |
-|RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | 
-|RF-004| A aplicação deve oferecer um catálogo de cursos.  | ALTA |
-|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar tutoriais específicos. | ALTA | 
-|RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA |
-|RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | 
-|RF-008| A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.   | BAIXA |
-|RF-009| A aplicação de permitir que o usuário visualize os cursos já realizados na página perfil. | MÉDIA | 
-|RF-010| A aplicação deve permitir ao usuário visualizar as informações sobre o curso. | MÉDIA |
+|ID    | Descrição do Requisito  | Prioridade | Responsavel |
+|------|-----------------------------------------|----|-----|
+|RF-001| A aplicação deve permitir que o usuário cadastrar uma conta. | ALTA | Lucas |
+|RF-002| A aplicação deve permitir que o usuário faça login na sua conta.  | ALTA | Rafael |
+|RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar contatos de emegencia. | MÉDIA | Nizia |
+|RF-004| A aplicação deve oferecer um catálogo de cursos.  | ALTA | Luiza |
+|RF-005| A aplicação deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar tutoriais específicos. | ALTA | Julia |
+|RF-006| A aplicação deve permitir que o usuário gere seu certificado de conclusão de curso. | ALTA | Lucas |
+|RF-007| A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil. | MÉDIA | Nizia |
+|RF-008| A aplicação deve oferecer imagens de capa correspondente para cada curso e apostila.   | BAIXA | Rafael |
+|RF-009| A aplicação de permitir que o usuário visualize os cursos já realizados na página perfil. | MÉDIA | Lucas |
+|RF-010| A aplicação deve permitir ao usuário visualizar as informações sobre o curso. | MÉDIA | Julia |
 
 **Prioridade: Alta / Média / Baixa.
 
