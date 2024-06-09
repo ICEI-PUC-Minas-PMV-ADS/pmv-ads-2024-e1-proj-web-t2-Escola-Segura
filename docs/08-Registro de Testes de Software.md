@@ -3,11 +3,20 @@
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
 Os testes funcionais realizados na aplicação web são descritos a seguir.
+<br><br>
+
+1. CT-01: Verificar o funcionamento dos links da página Home.
+<br><br>
+Responsável: Julia.
+<br><br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/143669562/92a2a030-6c5f-4ccc-9dc4-33314a3f9842
 
 <hr>
 2. CT-02: Verificar o cadastro de usuários.
+<br><br>
 Responsável: Rafael.
-
+<br><br>
 Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.
 
 ![Captura de tela 2024-05-27 193757](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/1cfd7bd4-b107-4803-899d-0fa83e5223eb)
@@ -55,17 +64,21 @@ Insere o nome do tutorial que deseja assistir
 
 e recebe as informações do tutorial que deseja assistir.
 
-6. CT-06: Verificar funcionalidade de gerar certificado. Responsável: Luiza Gabriela.
-
+6. CT-06: Verificar funcionalidade de gerar certificado.
+<br><br>
+Responsável: Julia.
+<br>
 Usúario acessar o perfil
 
 ![Captura de tela 2024-06-03 193806](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/9b72e684-78f0-46f8-af25-0e4e1818e22a)
 
 clicar em certificados do curso concluído
 
-![Captura de tela 2024-06-03 193822](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164196514/8ebb351c-a6c6-49b9-9f1d-9fea286f9fd3)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/143669562/c6543702-8873-454f-bfc4-f027440e63d8
 
 o certificado é gerado e disponibilizado para baixar e imprimir.
+
+<hr>
 
 7. CT-07: Verificar detalhes dos cursos. Responsável: Rafael.
 
@@ -79,6 +92,8 @@ Na tela cursos o usuario consegue visualizar as informações principais de cada
 ![Captura de tela 2024-05-27 195253](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/164248210/8b9eb92c-d7aa-4b75-8fa5-2b31432b55da)
 <br>
 <br>
+<hr>
+
 8. CT-08: Verificar funcionalidade cursos realizados
 Responsável: Nizia
 
