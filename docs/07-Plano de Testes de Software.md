@@ -106,7 +106,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
    </ol>
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a página home.	</td>
-  <td>Rafael</td>
+  <td>Lucas</td>
  </tr>
 </table>
 
@@ -136,7 +136,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
       </ol>
       </td>
      <td>A pagina deve oferecer busca de contatos emergenciais.</td>
-     <td>Nizia</td>
+     <td>Luiza</td>
     </tr>
    </table>
 
@@ -197,7 +197,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
       </ol>
       </td>
      <td>A página deve oferecer emição de certificado.</td>
-     <td>Luiza Gabriela</td>
+     <td>Julia</td>
     </tr>
    </table>
 
@@ -229,7 +229,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
    </ol>
    </td>
   <td>Todas as informações, incluindo imagens das capas, referentes aos cursos estão disponíveis na página Cursos.</td>
-  <td>Lucas</td>
+  <td>Rafael</td>
  </tr>
 </table>
 
@@ -260,7 +260,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
    </ol>
    </td>
   <td>As informações de cursos realizados pelo usuário devem estar disponiveis na página Perfil.</td>
-  <td>Lucas</td>
+  <td>Nizia</td>
  </tr>
 </table>
 
@@ -274,7 +274,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-09: Verificar funcionalidade cursos realizados</td>
+  <td>CT-09: Verificar página cursos.</td>
   <td>
    <ul>
     <li>RF-004: A aplicação deve oferecer um catálogo de cursos.</li>
@@ -295,4 +295,33 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir:
  </tr>
 </table>
 
-
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-10: Verificar página contatos</td>
+  <td>
+   <ul>
+    <li>RF-007: A aplicação deve oferecer uma página de contatos emergenciais de todos os estados do Brasil.</li>
+   </ul>
+  </td>
+  <td>Verificar a página contatos está apresentando lista de contatos emergenciais</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página Contatos</li>
+    <li>Visualizar a lista de contatos disponivel</li>
+   </ol>
+   </td>
+  <td>Todos os contatos disponiveis devem esta listados na página.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
