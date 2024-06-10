@@ -50,11 +50,7 @@ A Informação de usuário logado é armazenada em localStorage.
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/155129810/d086ebc1-75ee-4305-90a3-b4dceabc2d75
 <hr>
-4. CT-04: Verificar o funcionamento da pesquisa de contatos.
-<br><br>
-Responsável: Luiza Gabriela.
-<br><br>
-O usuário acessa a página de contatos emergenciais e pesquisa o contato desejado.
+
 
 ![WhatsApp Image 2024-06-09 at 14 49 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/assets/143669562/36cf0e2f-2cba-46eb-a8a9-74468a286ed5)
 
