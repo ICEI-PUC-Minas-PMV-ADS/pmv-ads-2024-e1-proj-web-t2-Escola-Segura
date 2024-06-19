@@ -42,17 +42,17 @@ for (let i = 0; i < dadosUsuario.length; i++) {
 
     if (tdPressionado == "td1") {
 
-        nomeImprimir = nome1.nomeCurso1;
+        nomeImprimir = localStorage.printPositiontd1;
     }
 
     if (tdPressionado == "td2") {
 
-        nomeImprimir = nome2.nomeCurso2;
+        nomeImprimir = localStorage.printPositiontd2;
     }
 
     if (tdPressionado == "td3") {
 
-        nomeImprimir = nome3.nomeCurso3;
+        nomeImprimir = localStorage.printPositiontd3;
     }
 
 
