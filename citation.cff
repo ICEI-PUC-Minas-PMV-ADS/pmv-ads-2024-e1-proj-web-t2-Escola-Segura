@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Escola Segura
+authors:
+  - family-names: Guedes Pereira
+    given-names: Julia
+  - family-names: Rangel Pereira de Sousa
+    given-names: Lucas
+  - family-names: Gabriela Machado Moreira
+    given-names: Luiza
+  - family-names: Oliveira Santos
+    given-names: Nizia
+  - family-names: Ribeiro Bastos
+    given-names: Rafael
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Almeida Tôrres
+    given-names: Viviâne
+keywords:
+  - Primeiros socorros
+  - Escola
+  - Segura
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-Escola-Segura 
+version: 1.0.0
+date-released: 2024-06-23
