@@ -42,6 +42,14 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
+# Hospedagem
+
+A aplicação desenvolvida em HTML, CSS e JavaScript pode ser utilizada tanto em servidores quanto em navegadores web.
+<br>
+Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-e1-proj-web-t2-Escola-Segura/src/paginaHome/index.html">aqui</a> para acessá-la.
+
+
+
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
